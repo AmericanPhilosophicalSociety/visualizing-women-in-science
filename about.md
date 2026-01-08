@@ -88,6 +88,10 @@ Deliverables: Release of the final website and visualization, publication of the
 
 Sutherland, Serenity, David Ragnar Nelson, and Bayard L. Miller. _Visualizing Women in Science_. American Philosophical Society. Site Version 1.8.2. last modified July 24, 2024. [https://diglib.amphilsoc.org/womeninscience](https://diglib.amphilsoc.org/womeninscience){:target="_blank"}
 
+## Project Code
+
+The source code for _Visualizing Women in Science_ is available at <https://github.com/AmericanPhilosophicalSociety/visualizing-women-in-science>.
+
 ## References
 
 [^1]: Londa Schiebinger, _The Mind Has No Sex? Women in the Origins of Modern Science_ (Cambridge: Harvard University Press, 1989), 11. A brief list of other literature that addresses the gendered arguments that prohibited, or in some cases, promoted women’s access to science include Kimberly A. Hamlin, _From Eve to Evolution: Darwin, Science, and Women’s Rights in Gilded Age America_ (Chicago: University of Chicago Press, 2014); Margaret Rossiter, _Women Scientists in America: Forging a a New World since 1972_ (Baltimore: Johns Hopkins University Press, 2012); Darren N. Wagner and Joanna Wharton, “The Sexes and the Sciences” _Journal of Eighteenth-Century Studies_ 42, no. 4 (2019): 399-413; Leonard Bernstein, Alan Winkler and Linda Zierdt-Warshaw, _African and African American Women of Science_ (1998).
