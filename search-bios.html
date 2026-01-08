@@ -1,0 +1,26 @@
+---
+layout: default
+title: Search the scientist bios
+---
+
+Use the search bar provided below to find biographies for the scientists featured in this project.
+
+<div class='search-block'>
+  <div class='input-group'>
+    <input type='text' class='form-control' id='search' name='x' placeholder="Enter a scientist's name...">
+  </div>
+  <div id='results'></div>
+</div>
+
+<script type='text/javascript' src="{{ '/assets/js/elasticlunr.min.js'| relative_url }}"></script>
+<script type='text/javascript' src="{{ '/assets/js/search-ui.js'| relative_url }}"></script>
+<script type='text/javascript' src="{{ '/assets/js/jquery-3.2.1.min.js'| relative_url }}"></script>
+<script type='text/javascript'>
+  var fields    = ['person']
+  var indexFile = "{{ '/search/index.json'| relative_url }}";
+  var url       = "{{ '' | absolute_url }}";
+
+  $(document).ready(function() {
+    startSearchUI(fields, indexFile, url);
+  });
+</script>

@@ -1,0 +1,482 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "Florence Rena Sabin",
+            "color": "3",
+            "degree": 26,
+            "modularity": 0,
+            "id": "74652573"
+        },
+        {
+            "name": "Marie Curie",
+            "color": "1",
+            "degree": 1,
+            "modularity": 0,
+            "id": "76353174"
+        },
+        {
+            "name": "Josephine Bicknell Neal",
+            "color": "2",
+            "degree": 2,
+            "modularity": 0,
+            "id": "5530161211633340070008"
+        },
+        {
+            "name": "Lilian Welsh",
+            "color": "3",
+            "degree": 21,
+            "modularity": 1,
+            "id": "73239411"
+        },
+        {
+            "name": "Anna Foa",
+            "color": "2",
+            "degree": 2,
+            "modularity": 1,
+            "id": "264088554"
+        },
+        {
+            "name": "Bertha Van Hoosen",
+            "color": "2",
+            "degree": 2,
+            "modularity": 1,
+            "id": "62835820"
+        },
+        {
+            "name": "Alice Evans",
+            "color": "2",
+            "degree": 2,
+            "modularity": 1,
+            "id": "16452241"
+        },
+        {
+            "name": "Jessie L. King",
+            "color": "3",
+            "degree": 1,
+            "modularity": 2,
+            "id": "jessie-king-physiology"
+        },
+        {
+            "name": "Janet Howell Clark",
+            "color": "3",
+            "degree": 6,
+            "modularity": 2,
+            "id": "34818238"
+        },
+        {
+            "name": "Vera Danchakoff",
+            "color": "2",
+            "degree": 2,
+            "modularity": 1,
+            "id": "42682155"
+        },
+        {
+            "name": "Lise Meitner",
+            "color": "1",
+            "degree": 3,
+            "modularity": 2,
+            "id": "64160163"
+        },
+        {
+            "name": "Matilda Moldenhauer Brooks",
+            "color": "2",
+            "degree": 5,
+            "modularity": 3,
+            "id": "72414842"
+        },
+        {
+            "name": "Margaret Reed Lewis",
+            "color": "3",
+            "degree": 1,
+            "modularity": 3,
+            "id": "240455520"
+        },
+        {
+            "name": "Florence Peebles",
+            "color": "2",
+            "degree": 3,
+            "modularity": 3,
+            "id": "3389154260604924480006"
+        },
+        {
+            "name": "Maud L. Menten",
+            "color": "2",
+            "degree": 1,
+            "modularity": 0,
+            "id": "305447399"
+        },
+        {
+            "name": "Pauline Ramart-Lucas",
+            "color": "2",
+            "degree": 2,
+            "modularity": 0,
+            "id": "64121403"
+        },
+        {
+            "name": "Johanna Westerdijk",
+            "color": "1",
+            "degree": 2,
+            "modularity": 1,
+            "id": "47547210"
+        },
+        {
+            "name": "Annie Porter",
+            "color": "2",
+            "degree": 2,
+            "modularity": 1,
+            "id": "289560001"
+        },
+        {
+            "name": "Annie Jump Cannon",
+            "color": "1",
+            "degree": 2,
+            "modularity": 1,
+            "id": "37667347"
+        },
+        {
+            "name": "Jozafa Joteyko",
+            "color": "2",
+            "degree": 2,
+            "modularity": 1,
+            "id": "12462457"
+        },
+        {
+            "name": "Norma LeVeque",
+            "color": "2",
+            "degree": 1,
+            "modularity": 0,
+            "id": "norma-leveque-biology"
+        },
+        {
+            "name": "Caroline McGill",
+            "color": "2",
+            "degree": 1,
+            "modularity": 0,
+            "id": "45180040"
+        },
+        {
+            "name": "Minnie Reed",
+            "color": "2",
+            "degree": 1,
+            "modularity": 0,
+            "id": "4592113"
+        },
+        {
+            "name": "Mary E. Pinney",
+            "color": "2",
+            "degree": 1,
+            "modularity": 0,
+            "id": "173632405"
+        },
+        {
+            "name": "Caroline B. Thompson",
+            "color": "2",
+            "degree": 1,
+            "modularity": 0,
+            "id": "caroline-thompson-entomology"
+        },
+        {
+            "name": "Rhoda Erdmann",
+            "color": "2",
+            "degree": 2,
+            "modularity": 0,
+            "id": "77069858"
+        },
+        {
+            "name": "Margaret Clay Ferguson",
+            "color": "2",
+            "degree": 2,
+            "modularity": 1,
+            "id": "194053710"
+        },
+        {
+            "name": "Margaret F. Washburn",
+            "color": "2",
+            "degree": 2,
+            "modularity": 1,
+            "id": "69034781"
+        },
+        {
+            "name": "Cecilia Payne-Gaposchkin",
+            "color": "2",
+            "degree": 3,
+            "modularity": 2,
+            "id": "110246591"
+        },
+        {
+            "name": "Helen Dean King",
+            "color": "1",
+            "degree": 2,
+            "modularity": 4,
+            "id": "51423735"
+        },
+        {
+            "name": "Maud Slye",
+            "color": "2",
+            "degree": 2,
+            "modularity": 0,
+            "id": "4741220"
+        },
+        {
+            "name": "Clara Lynch",
+            "color": "3",
+            "degree": 1,
+            "modularity": 4,
+            "id": "clara-lynch-biology"
+        },
+        {
+            "name": "Nina Simmonds Estill",
+            "color": "3",
+            "degree": 3,
+            "modularity": 2,
+            "id": "26242763"
+        },
+        {
+            "name": "Marion Hines",
+            "color": "3",
+            "degree": 3,
+            "modularity": 2,
+            "id": "6448391"
+        },
+        {
+            "name": "Marcella O'Grady Boveri",
+            "color": "2",
+            "degree": 1,
+            "modularity": 0,
+            "id": "67213469"
+        }
+    ],
+    "links": [
+        {
+            "source": "74652573",
+            "target": "76353174"
+        },
+        {
+            "source": "74652573",
+            "target": "5530161211633340070008"
+        },
+        {
+            "source": "74652573",
+            "target": "264088554"
+        },
+        {
+            "source": "74652573",
+            "target": "62835820"
+        },
+        {
+            "source": "74652573",
+            "target": "16452241"
+        },
+        {
+            "source": "74652573",
+            "target": "42682155"
+        },
+        {
+            "source": "74652573",
+            "target": "64160163"
+        },
+        {
+            "source": "74652573",
+            "target": "72414842"
+        },
+        {
+            "source": "74652573",
+            "target": "305447399"
+        },
+        {
+            "source": "74652573",
+            "target": "64121403"
+        },
+        {
+            "source": "74652573",
+            "target": "47547210"
+        },
+        {
+            "source": "74652573",
+            "target": "289560001"
+        },
+        {
+            "source": "74652573",
+            "target": "37667347"
+        },
+        {
+            "source": "74652573",
+            "target": "12462457"
+        },
+        {
+            "source": "74652573",
+            "target": "norma-leveque-biology"
+        },
+        {
+            "source": "74652573",
+            "target": "45180040"
+        },
+        {
+            "source": "74652573",
+            "target": "4592113"
+        },
+        {
+            "source": "74652573",
+            "target": "173632405"
+        },
+        {
+            "source": "74652573",
+            "target": "caroline-thompson-entomology"
+        },
+        {
+            "source": "74652573",
+            "target": "77069858"
+        },
+        {
+            "source": "74652573",
+            "target": "3389154260604924480006"
+        },
+        {
+            "source": "74652573",
+            "target": "194053710"
+        },
+        {
+            "source": "74652573",
+            "target": "69034781"
+        },
+        {
+            "source": "74652573",
+            "target": "110246591"
+        },
+        {
+            "source": "74652573",
+            "target": "4741220"
+        },
+        {
+            "source": "74652573",
+            "target": "67213469"
+        },
+        {
+            "source": "5530161211633340070008",
+            "target": "73239411"
+        },
+        {
+            "source": "73239411",
+            "target": "264088554"
+        },
+        {
+            "source": "73239411",
+            "target": "62835820"
+        },
+        {
+            "source": "73239411",
+            "target": "16452241"
+        },
+        {
+            "source": "73239411",
+            "target": "42682155"
+        },
+        {
+            "source": "73239411",
+            "target": "72414842"
+        },
+        {
+            "source": "73239411",
+            "target": "289560001"
+        },
+        {
+            "source": "73239411",
+            "target": "12462457"
+        },
+        {
+            "source": "73239411",
+            "target": "77069858"
+        },
+        {
+            "source": "73239411",
+            "target": "194053710"
+        },
+        {
+            "source": "73239411",
+            "target": "64121403"
+        },
+        {
+            "source": "73239411",
+            "target": "64160163"
+        },
+        {
+            "source": "73239411",
+            "target": "47547210"
+        },
+        {
+            "source": "73239411",
+            "target": "69034781"
+        },
+        {
+            "source": "73239411",
+            "target": "110246591"
+        },
+        {
+            "source": "73239411",
+            "target": "37667347"
+        },
+        {
+            "source": "73239411",
+            "target": "51423735"
+        },
+        {
+            "source": "73239411",
+            "target": "4741220"
+        },
+        {
+            "source": "73239411",
+            "target": "3389154260604924480006"
+        },
+        {
+            "source": "73239411",
+            "target": "26242763"
+        },
+        {
+            "source": "73239411",
+            "target": "6448391"
+        },
+        {
+            "source": "jessie-king-physiology",
+            "target": "34818238"
+        },
+        {
+            "source": "34818238",
+            "target": "72414842"
+        },
+        {
+            "source": "34818238",
+            "target": "64160163"
+        },
+        {
+            "source": "34818238",
+            "target": "110246591"
+        },
+        {
+            "source": "34818238",
+            "target": "26242763"
+        },
+        {
+            "source": "34818238",
+            "target": "6448391"
+        },
+        {
+            "source": "72414842",
+            "target": "240455520"
+        },
+        {
+            "source": "72414842",
+            "target": "3389154260604924480006"
+        },
+        {
+            "source": "51423735",
+            "target": "clara-lynch-biology"
+        },
+        {
+            "source": "26242763",
+            "target": "6448391"
+        }
+    ]
+}

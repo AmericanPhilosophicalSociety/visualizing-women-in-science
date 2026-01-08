@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<article class='bio'>
+  <h2>{{ page.person }}{% if page.DOD %} ({{ page.DOB }}-{{ page.DOD }}){% elsif page.DOB %} (b. {{ page.DOB }}){% endif %}</h2>
+  <div class='bio-container'>
+    {% if page.image %}
+      {% comment %}
+        <figure>
+          <img id='bio-image' src='{{ page.image }}' onclick="showOrHide()">
+          <figcaption id="showthis" style="visibility: hidden;">{{ page.image_credit }}</figcaption>
+        </figure>
+      {% endcomment %}
+      <figure>
+        <img id='bio-image' src='{{ page.image }}'>
+        <figcaption>{{ page.image_credit }}</figcaption>
+      </figure>
+    {% endif %}
+    {% if page.biography %}
+      <p>{{ page.biography }}</p>
+    {% else %}
+      <p>No biography available.</p>
+    {% endif %}
+  </div>
+  <div class="collection-links">
+    <h3>Collections that mention this person:</h3>
+    <ul>
+      {% for coll in page.colls %}
+        <li>{{ coll }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</article>

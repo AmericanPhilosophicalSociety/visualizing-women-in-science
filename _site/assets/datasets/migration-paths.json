@@ -1,0 +1,945 @@
+{
+    "type": "Feature Collection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.4,
+                        52.0
+                    ],
+                    [
+                        16.37,
+                        48.21
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "52591350",
+                "rowid": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.37,
+                        48.21
+                    ],
+                    [
+                        10.75,
+                        59.91
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "52591350",
+                "rowid": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        10.75,
+                        59.91
+                    ],
+                    [
+                        -99.13,
+                        19.43
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "52591350",
+                "rowid": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -99.13,
+                        19.43
+                    ],
+                    [
+                        -73.93,
+                        40.73
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "52591350",
+                "rowid": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -73.93,
+                        40.73
+                    ],
+                    [
+                        -80.19,
+                        25.76
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "52591350",
+                "rowid": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -80.19,
+                        25.76
+                    ],
+                    [
+                        16.37,
+                        48.21
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "52591350",
+                "rowid": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12.49,
+                        41.9
+                    ],
+                    [
+                        4.89,
+                        52.37
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "gina-castelnuovo-biology",
+                "rowid": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.89,
+                        52.37
+                    ],
+                    [
+                        12.56,
+                        55.67
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "gina-castelnuovo-biology",
+                "rowid": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12.56,
+                        55.67
+                    ],
+                    [
+                        -83.73,
+                        42.27
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "gina-castelnuovo-biology",
+                "rowid": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.73,
+                        42.27
+                    ],
+                    [
+                        -75.16,
+                        39.95
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "gina-castelnuovo-biology",
+                "rowid": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -75.16,
+                        39.95
+                    ],
+                    [
+                        -92.32,
+                        38.95
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "gina-castelnuovo-biology",
+                "rowid": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -92.32,
+                        38.95
+                    ],
+                    [
+                        12.49,
+                        41.9
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "gina-castelnuovo-biology",
+                "rowid": "14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -73.93,
+                        40.73
+                    ],
+                    [
+                        37.61,
+                        55.75
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.61,
+                        55.75
+                    ],
+                    [
+                        -73.93,
+                        40.25
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -73.93,
+                        40.25
+                    ],
+                    [
+                        2.34,
+                        48.86
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.34,
+                        48.86
+                    ],
+                    [
+                        23.9,
+                        54.89
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        23.9,
+                        54.89
+                    ],
+                    [
+                        17.1,
+                        48.14
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        17.1,
+                        48.14
+                    ],
+                    [
+                        14.3,
+                        40.85
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        14.3,
+                        40.85
+                    ],
+                    [
+                        6.63,
+                        46.51
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.63,
+                        46.51
+                    ],
+                    [
+                        -73.93,
+                        40.73
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -73.93,
+                        40.73
+                    ],
+                    [
+                        -87.62,
+                        41.88
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -87.62,
+                        41.88
+                    ],
+                    [
+                        6.63,
+                        46.51
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "42682155",
+                "rowid": "25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.71,
+                        46.48
+                    ],
+                    [
+                        -75.16,
+                        39.95
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "vera-dolgopol-medicine",
+                "rowid": "27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -75.16,
+                        39.95
+                    ],
+                    [
+                        -73.93,
+                        40.73
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "vera-dolgopol-medicine",
+                "rowid": "28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.68,
+                        50.11
+                    ],
+                    [
+                        -0.11,
+                        51.5
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "54898057",
+                "rowid": "30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.11,
+                        51.5
+                    ],
+                    [
+                        -71.11,
+                        42.37
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "54898057",
+                "rowid": "31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12.38,
+                        43.11
+                    ],
+                    [
+                        14.3,
+                        40.85
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "264088554",
+                "rowid": "33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.84,
+                        47.99
+                    ],
+                    [
+                        -73.93,
+                        40.73
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "47716433",
+                "rowid": "35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.74,
+                        45.11
+                    ],
+                    [
+                        11.25,
+                        43.76
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "85738872",
+                "rowid": "37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.25,
+                        43.76
+                    ],
+                    [
+                        7.74,
+                        45.5
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "85738872",
+                "rowid": "38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.74,
+                        45.5
+                    ],
+                    [
+                        -90.19,
+                        38.62
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "85738872",
+                "rowid": "39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.4,
+                        53.0
+                    ],
+                    [
+                        18.06,
+                        59.33
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "64160163",
+                "rowid": "41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        10.5,
+                        51.54
+                    ],
+                    [
+                        37.61,
+                        55.75
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "73918294",
+                "rowid": "43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.61,
+                        55.75
+                    ],
+                    [
+                        10.5,
+                        51.2
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "73918294",
+                "rowid": "44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        10.5,
+                        51.2
+                    ],
+                    [
+                        -75.31,
+                        40.02
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "73918294",
+                "rowid": "45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.5,
+                        51.54
+                    ],
+                    [
+                        -122.27,
+                        37.87
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "20509982",
+                "rowid": "47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -122.27,
+                        37.87
+                    ],
+                    [
+                        9.5,
+                        51.2
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "20509982",
+                "rowid": "48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.5,
+                        51.2
+                    ],
+                    [
+                        10.75,
+                        59.91
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "20509982",
+                "rowid": "49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        10.75,
+                        59.91
+                    ],
+                    [
+                        -78.89,
+                        35.99
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "20509982",
+                "rowid": "50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -90.07,
+                        29.95
+                    ],
+                    [
+                        4.89,
+                        52.37
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "rose-mooney-slater-physics",
+                "rowid": "52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.89,
+                        52.37
+                    ],
+                    [
+                        -71.11,
+                        42.37
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "rose-mooney-slater-physics",
+                "rowid": "53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -71.11,
+                        42.37
+                    ],
+                    [
+                        -90.07,
+                        29.95
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "rose-mooney-slater-physics",
+                "rowid": "54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -90.07,
+                        29.95
+                    ],
+                    [
+                        -87.62,
+                        41.88
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "rose-mooney-slater-physics",
+                "rowid": "55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -87.62,
+                        41.88
+                    ],
+                    [
+                        -89.9,
+                        29.95
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "rose-mooney-slater-physics",
+                "rowid": "56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.34,
+                        48.86
+                    ],
+                    [
+                        -7.6,
+                        33.58
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "nine-choucroun-biochemistry",
+                "rowid": "58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.6,
+                        33.58
+                    ],
+                    [
+                        -73.93,
+                        40.73
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "nine-choucroun-biochemistry",
+                "rowid": "59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -73.93,
+                        40.73
+                    ],
+                    [
+                        2.34,
+                        48.86
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "nine-choucroun-biochemistry",
+                "rowid": "60"
+            }
+        }
+    ]
+}

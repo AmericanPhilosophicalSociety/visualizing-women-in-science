@@ -1,0 +1,116 @@
+---
+layout: none
+---
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>Women in Science at the APS</title>
+  <meta charset="utf-8">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CD2X5VV4CJ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CD2X5VV4CJ');
+    </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/ico" href="{{ '/img/favicon.ico'| relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css'| relative_url }}">
+  <title>APS Women in Science Network Visualization</title>
+</head>
+<style>
+
+/* for curved links */
+
+
+.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+/*
+.links line {
+  stroke: #999;
+  stroke-opacity: 1.0;
+}
+*/
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+</style>
+<body>
+  <form onSubmit="return false">
+    <div class="collection-filter" style="width:300px;">
+      <input list='scientists-list' id="scientist-search" type="text" onfocus="this.value=''" name="scientists" placeholder="Search for a scientist">
+      <input type=submit class='filter-btn' value='Submit' onclick='highlightScientists()'>
+      <datalist id='scientists-list'></datalist>
+    </div>
+  </form>
+  <form onSubmit="return false">
+    <div class="collection-filter" style="width:300px;">
+      <input list='collections-list' id="collection-search" type="text" onfocus="this.value=''" name="collections" placeholder="Search for a collection">
+      <input type=submit class='filter-btn' value='Submit' onclick='filterClick()'>
+      <datalist id='collections-list'></datalist>
+    </div>
+  </form>
+  <form onSubmit="return false">
+    <div class="collection-filter" style="width:300px;">
+      <input list='fields-list' id="field-search" type="text" onfocus="this.value=''" name="fields" placeholder="Search for a field">
+      <input type=submit class='filter-btn' value='Submit' onclick='fieldClick()'>
+      <datalist id='fields-list'></datalist>
+    </div>
+  </form>
+  <div id='reset-button'>
+    <div id='collection-view'>
+    </div>
+    <button type='button' class='reset-btn'>Reset</button>
+  </div>
+  <!--container for SVG-->
+  <div id="container" class="svg-container">
+  </div>
+
+  <!--bio side panel-->
+ <div id='bioSidepanel' class='sidepanel'>
+    <button class="closebtn" onclick="closeNav()">&times;</button>
+    <div id='bio-content'>
+    </div>
+  </div>
+
+  <button class="openbtn" onclick="openNav()">&#9776; Learn more about this person</button>
+<script>
+
+  let windowSize = window.matchMedia("(max-width: 414px)")
+  
+  function openNav() {
+    if (windowSize.matches) {
+      document.getElementById("bioSidepanel").style.width = "100%";
+    } else {
+      document.getElementById("bioSidepanel").style.width = "50%";
+    }
+  }
+
+  function closeNav() {
+    document.getElementById("bioSidepanel").style.width = "0";
+  }
+</script>
+
+
+ <!--<svg width = "960" height = "1000"></svg>-->
+<!--
+  <header>
+    <img src='assets/women-banner.jpg' alt"Women in Science in the APS collections">
+  </header>
+<svg width="960" height="1000"></svg>-->
+</body>
+
+<script src="{{ '/assets/js/jquery-3.2.1.min.js'| relative_url }}"></script>
+<script src="{{ '/assets/js/d3.v7.min.js'| relative_url }}"></script>
+<!--<script src='fisheye.js'></script>-->
+<script src="{{ '/assets/js/vis.js'| relative_url }}"></script>
+</html>

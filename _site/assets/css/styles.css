@@ -1,0 +1,840 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+.header {
+  background-color: #FDC151;
+}
+
+.header a {
+  color: #003b49;
+}
+
+body {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 16pt;
+  line-height: 1.75;
+  margin: 0;
+  color: #000000;
+}
+
+.sr-only:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+}
+
+a:focus {
+  color: #D3232E;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    font-size: 12pt;
+  }
+}
+body, html {
+  height: 100%;
+}
+
+h1 {
+  font-weight: 600;
+  line-height: 2;
+}
+
+@media screen and (max-width: 414px) {
+  h1 {
+    font-size: 1.75em;
+    line-height: 1.2;
+  }
+}
+h2 {
+  font-weight: 900;
+  line-height: 1.5;
+  margin: 0 0 0.5em 0;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+@media screen and (max-width: 820px) {
+  h2 {
+    font-size: 1.5em;
+  }
+}
+a {
+  color: #D3232E;
+  text-decoration: none;
+}
+
+.navbar.navbar-expand-lg {
+  padding: 2em;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 414px) {
+  .navbar-brand {
+    font-size: 1.2rem;
+    letter-spacing: 1.8px;
+  }
+}
+main a {
+  text-decoration: underline;
+}
+
+main p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+main h3 {
+  font-weight: bold;
+}
+
+#navbarSupportedContent {
+  flex-grow: 0;
+}
+
+#navbarSupportedContent > ul {
+  display: inline-flex;
+  justify-content: space-between;
+  list-style: none;
+  gap: 1em;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #000000;
+}
+
+main {
+  position: relative;
+} /* to place scrollbar */
+.scroll-top {
+  position: absolute; /* relative to its positioned <main> parent */
+  top: 120vh; /* starts below the bottom of the screen */
+  bottom: 3rem; /* stops scrolling before the end */
+  right: 2rem; /* offset from right hand side */
+}
+
+.scroll-top__link {
+  position: -webkit-sticky; /* for Safari */
+  position: sticky; /* 'relative' until element reaches... */
+  top: 90vh; /* 90% viewport height from the top, when it becomes 'fixed' - until its container toggles it back to 'relative' */
+}
+
+.scroll-top__link > span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -8px;
+  margin-top: -12px;
+  width: 50px;
+  height: 50px;
+  background-color: #FDC151;
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 60px;
+  border-radius: 60px;
+  text-align: center;
+  color: #003b49;
+}
+
+.scroll-top svg {
+  display: block;
+  fill: #003b49;
+  height: 24px;
+  margin: 16px auto 0;
+  width: 24px;
+}
+
+.scroll-top path {
+  stroke: #ffffff;
+  stroke-width: 2px;
+}
+
+.parallax {
+  /* Set a specific height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carousel-caption {
+  background: rgba(30, 30, 30, 0.8);
+  border: 1px none black;
+  border-radius: 5px;
+}
+
+.carousel-caption p {
+  text-align: center;
+}
+
+.carousel-caption a {
+  color: #9fbfc7;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  background-color: #003b49;
+}
+
+.carousel-item {
+  transition: transform 2s ease-in-out;
+}
+
+figure {
+  display: inline-block;
+  position: relative;
+  padding: 1em;
+}
+
+figure img {
+  vertical-align: top;
+}
+
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
+}
+.carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  height: 50vh;
+}
+
+.carousel-inner {
+  border-top: 25px;
+  border-left: 25px;
+  border-right: 25px;
+  border-bottom: 25px;
+  border-color: #003b49;
+  border-style: solid;
+}
+
+.parallax-text {
+  display: block;
+  padding: 50% 5% 5% 5%;
+}
+
+.parallax-text > h1 {
+  color: white;
+  text-shadow: 2px 2px 8px black;
+}
+
+.parallax-caption {
+  background-color: #FDC151;
+  padding: 1rem;
+}
+
+main {
+  padding: 4em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 992px) {
+  main {
+    padding: 2em;
+  }
+}
+main {
+  max-width: 80em;
+}
+
+main > p {
+  text-align: justify;
+}
+
+.box-wrapper {
+  display: flex;
+  padding: 2em;
+}
+
+.box {
+  color: #2e2c27;
+  border-radius: 0.5em;
+  border: 0;
+  box-shadow: inset 0 0 0 2px #585858;
+  display: inline-block;
+  text-align: center;
+  padding: 0 1.25em 0 1.6em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box > a {
+  color: #2e2c27;
+  font-weight: 300;
+  font-size: 2em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+@media (max-width: 414px) {
+  .box > a {
+    font-size: inherit;
+  }
+}
+.navigation-cards .col {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.card-banner {
+  position: absolute;
+  padding-top: 10px;
+  top: 70%;
+  background-color: #FDC151;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 18pt;
+  width: 100%;
+  max-width: 300px;
+}
+
+.card-banner {
+  color: #2e2c27;
+}
+
+@media (max-width: 414px) {
+  .card-banner {
+    max-width: 257px;
+  }
+}
+@media (max-width: 414px) {
+  .navigation-cards .col {
+    flex: auto;
+  }
+}
+main {
+  width: 345px;
+}
+
+@media screen and (min-width: 576px) {
+  main {
+    width: 520px;
+  }
+}
+@media screen and (min-width: 768px) {
+  main {
+    width: 650px;
+  }
+}
+@media screen and (min-width: 992px) {
+  main {
+    width: 950px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  main {
+    width: 1150px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  main {
+    width: auto;
+  }
+}
+/*.bio-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.bio-container > p {
+  flex: 1;
+  padding: 1em;
+}
+*/
+.bio-container > p {
+  padding: 1em;
+  text-align: justify;
+  min-height: 16.5em;
+}
+
+.bio-container > figure {
+  float: left;
+  width: min-content;
+}
+
+.bio-container img {
+  object-fit: contain;
+  max-height: 16em;
+  max-width: 24em;
+  width: max-content;
+}
+
+.collection-links {
+  padding: 2em;
+}
+
+/*
+.bio-container figcaption {
+  font-size: 10pt;
+  bottom: 50px;
+  position: absolute;
+  color: #FFFFFF
+}
+*/
+.bio-container figcaption {
+  font-size: 12pt;
+}
+
+/*
+@media screen and (max-width: 414px) {
+  figure {
+    max-width: 300px;
+  }
+}
+*/
+figure {
+  max-width: 300px;
+}
+
+@media screen and (min-width: 992px) {
+  figure {
+    max-width: none;
+  }
+}
+@media screen and (max-width: 992px) {
+  .right-box, .left-box {
+    width: auto !important;
+  }
+}
+@media screen and (max-width: 992px) {
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+@media (max-width: 414px) {
+  .bio-container > figure {
+    max-width: 300px;
+  }
+}
+#footer {
+  border-top: 2px solid;
+  padding: 2em;
+  margin: 0em 0 2em;
+}
+
+#footer a {
+  color: #D3232E;
+}
+
+#footer .icon {
+  color: #003b49;
+}
+
+#footer > .wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+  max-width: 90em;
+  padding: 0 2.5em;
+  margin: 0 auto;
+}
+
+#footer > .wrapper section:nth-child(1) {
+  width: calc(66% - 5em);
+  margin-right: 2.5em;
+  margin-left: 2.5em;
+}
+
+@media screen and (max-width: 736px) {
+  #footer > .wrapper section:nth-child(1) {
+    width: 100%;
+    margin: 3em 0 0 0;
+  }
+}
+#footer > .wrapper section:nth-child(2) {
+  width: calc(33% - 2.5em);
+  margin-left: 2.5em;
+}
+
+@media screen and (max-width: 736px) {
+  #footer > .wrapper section:nth-child(2) {
+    order: -1;
+    width: 100%;
+    margin-left: 0;
+  }
+}
+ul.icons {
+  cursor: default;
+  list-style: none;
+  padding-left: 0;
+  margin: -1em 0 2em -1em;
+}
+
+ul.icons li {
+  display: inline-block;
+  padding: 1em 0 0 1em;
+}
+
+.fab {
+  font-weight: 400;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+#world-map {
+  background-color: lightblue;
+}
+
+#migration-map {
+  position: relative;
+}
+
+path {
+  fill: #ffffff;
+  stroke: #000000;
+  stroke-width: 0.5px;
+  z-index: 0;
+}
+
+circle.first {
+  z-index: 1;
+  opacity: 1;
+  cursor: pointer;
+}
+
+circle.other {
+  z-index: 0;
+  opacity: 0.1;
+}
+
+circle.inactive {
+  opacity: 0;
+}
+
+circle.active {
+  opacity: 1;
+}
+
+div.namebox {
+  position: absolute;
+  text-align: center;
+  z-index: 3;
+  visibility: hidden;
+  color: #2e2c27;
+  background: #FDC151;
+  border-radius: 0.5em;
+  border: 0;
+  box-shadow: inset 0 0 0 2px #585858;
+  padding: 0 0.25em 0 0.25em;
+}
+
+.biobox {
+  position: absolute;
+  display: inline-block;
+  left: 50%;
+  bottom: 15%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  visibility: hidden;
+  color: #2e2c27;
+  background: #FDC151;
+  border-radius: 0.5em;
+  border: 0;
+  box-shadow: inset 0 0 0 2px #585858;
+  padding: 0 0.25em 0 0.25em;
+}
+
+@media screen and (max-width: 820px) {
+  .biobox {
+    position: relative;
+    bottom: 10%;
+  }
+}
+@media screen and (max-width: 414px) {
+  .biobox {
+    bottom: 55%;
+    transform: translate(-50%, 0);
+    width: 100%;
+  }
+}
+.explain-box {
+  position: absolute;
+  display: inline-block;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  color: #2e2c27;
+  background: #FDC151;
+  border-radius: 0.5em;
+  border: 0;
+  box-shadow: inset 0 0 0 2px #585858;
+  padding: 0 0.25em 0 0.25em;
+}
+
+@media screen and (max-width: 820px) {
+  .explain-box {
+    top: 40%;
+  }
+}
+@media screen and (max-width: 414px) {
+  .explain-box {
+    top: 0;
+    transform: translate(-50%, 50%);
+    width: 100%;
+  }
+}
+@media screen and (max-width: 414px) {
+  #migration-map {
+    padding-bottom: 4em;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .explain-box {
+    top: 70%;
+  }
+}
+.migration {
+  fill: none;
+  stroke-width: 2;
+  stroke: #F37465;
+  opacity: 0.1;
+}
+
+.reset-btn {
+  position: absolute;
+  display: inline-block;
+  left: 50%;
+  bottom: 8%;
+  transform: translate(-50%, -50%);
+  visibility: hidden;
+}
+
+@media screen and (max-width: 820px) {
+  .reset-btn {
+    bottom: 50%;
+    transform: translate(-50%, 50%);
+  }
+}
+.migration.inactive {
+  opacity: 0;
+}
+
+/* network visualization styles */
+/* for curved links */
+.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+/*
+.links line {
+  stroke: #999;
+  stroke-opacity: 1.0;
+}
+*/
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.label rect {
+  fill: #fff;
+  opacity: 1;
+  stroke: #b9babc;
+  stroke-width: 0.5px;
+}
+
+.label {
+  visibility: hidden;
+  /* prevent interference of label with node mouse events */
+  pointer-events: none;
+  font-size: 75%;
+  z-index: 100;
+}
+
+.label.selected rect {
+  fill: #FEF0C9;
+}
+
+.label.show-label {
+  visibility: visible !important;
+}
+
+.node {
+  cursor: pointer;
+}
+
+#role-list ul {
+  list-style-type: none;
+}
+
+#role-list ul > li {
+  display: inline-block;
+  padding: 0.5em;
+}
+
+.bar {
+  fill: #6CBff6;
+}
+
+.bar:hover {
+  fill: #F37465;
+}
+
+.lightbox img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lightbox figcaption {
+  color: white;
+  font-size: 16px;
+  font-weight: initial;
+  text-align: center;
+}
+
+.left-box {
+  float: left;
+  width: min-content;
+}
+
+.right-box {
+  float: right;
+  width: min-content;
+}
+
+.cssbox figcaption {
+  font-size: 16px;
+}
+
+.cssbox figcaption > a {
+  text-decoration: none;
+}
+
+/* The work below, CSSBox, is released under the Creative Commons
+   Attribution-ShareAlike 4.0 license and is available on
+   https://github.com/TheLastProject/CSSBox. You are not required to add
+   additional credit to your website, just leave the above text in this file */
+div.cssbox {
+  display: inline-block;
+}
+
+span.cssbox_full {
+  z-index: 999999;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  top: 0;
+  left: 0;
+  opacity: 0;
+  pointer-events: none;
+  cursor: default;
+  transition: opacity 0.5s linear;
+}
+
+span.cssbox_full figure {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.4);
+  margin: 0;
+  padding: 0;
+  max-height: 90%;
+  max-width: 90%;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 20px black;
+}
+
+a.cssbox_close,
+a.cssbox_prev,
+a.cssbox_next {
+  z-index: 999999;
+  position: fixed;
+  text-decoration: none;
+  visibility: hidden;
+  color: white;
+  font-size: 36px;
+}
+
+a.cssbox_close {
+  top: 1%;
+  right: 1%;
+}
+
+a.cssbox_close::after {
+  content: "×";
+}
+
+a.cssbox_prev,
+a.cssbox_next {
+  top: 50%;
+  transform: translate(0%, -50%);
+}
+
+a.cssbox_prev {
+  left: 5%;
+}
+
+a.cssbox_next {
+  right: 5%;
+}
+
+a:target ~ a.cssbox_close,
+a:target ~ a.cssbox_prev,
+a:target ~ a.cssbox_next {
+  visibility: visible;
+}
+
+a:target > img.cssbox_thumb + span.cssbox_full {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: initial;
+}
+
+/* This is the end of CSSBox */
+.search-block {
+  padding: 1em;
+}
+
+.btn-primary {
+  background-color: #003b49;
+  border-color: #003b49;
+}
+
+@media screen and (min-width: 992px) {
+  .toti {
+    padding: 2em;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .toti {
+    padding-bottom: 3em;
+  }
+}
+.toti-head {
+  font-weight: 600;
+  font-size: 3em;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 2px gray;
+}
+
+/*# sourceMappingURL=styles.css.map */

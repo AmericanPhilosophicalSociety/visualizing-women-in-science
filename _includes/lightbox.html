@@ -1,0 +1,19 @@
+{::nomarkdown}
+<div class="cssbox {{ include.align }}">
+    <figure>
+        <a id="{{ include.id }}" href="#{{ include.id }}">
+            <img class="cssbox_thumb" tabindex=1 src="{{ include.src }}" height="{{ include.height }}" width="{{ include.width }}" alt="{{ include.alt }}">
+            <span class="cssbox_full">
+                <figure class="lightbox">
+                    <img src="{{ include.src }}" alt="{{ include.alt }}">
+                    <figcaption>{{ include.caption }}</figcaption>
+                </figure>
+            </span>
+        </a>
+        <a class="cssbox_close" href="#void"></a>
+        <figcaption>{% if include.link %}<a href="{{ include.link }}" target="_blank" rel="noopener noreferrer">{{ include.caption }}</a>
+        {% else %}{{ include.caption}}{% endif %}
+    </figcaption>
+    </figure>
+</div>
+{:/nomarkdown}

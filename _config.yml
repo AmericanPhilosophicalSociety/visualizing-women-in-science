@@ -1,0 +1,8 @@
+url: "https://womeninscience.amphilsoc.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Visualizing Women in Science" # the name of your site, e.g. ACME Corp.
+description: "A resource for discovering women scientists at the American Philosophical Society."
+markdown: kramdown
+collections:
+  bios:
+    output: true

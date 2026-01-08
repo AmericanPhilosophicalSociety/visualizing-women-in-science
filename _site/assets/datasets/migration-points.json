@@ -1,0 +1,1265 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4,
+                    52.0
+                ]
+            },
+            "properties": {
+                "rowid": "1",
+                "id": "52591350",
+                "name": "Marietta Blau",
+                "field": "Physics",
+                "year": "1920",
+                "location": "Berlin",
+                "narrative": "Marietta Blau began her career in Berlin.",
+                "order": "first",
+                "target": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37,
+                    48.21
+                ]
+            },
+            "properties": {
+                "rowid": "2",
+                "id": "52591350",
+                "name": "Marietta Blau",
+                "field": "Physics",
+                "year": "1923",
+                "location": "Vienna",
+                "narrative": "She returned to her native Vienna in 1923 to care for her mother, taking a mostly unpaid position at the Radium Institute.",
+                "order": "mid",
+                "target": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75,
+                    59.91
+                ]
+            },
+            "properties": {
+                "rowid": "3",
+                "id": "52591350",
+                "name": "Marietta Blau",
+                "field": "Physics",
+                "year": "1938",
+                "location": "Oslo",
+                "narrative": "In 1938, an incresingly hostile and antisemitic political situation made it impossible for her to continue work in Vienna. She fled for Oslo.",
+                "order": "mid",
+                "target": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.13,
+                    19.43
+                ]
+            },
+            "properties": {
+                "rowid": "4",
+                "id": "52591350",
+                "name": "Marietta Blau",
+                "field": "Physics",
+                "year": "1939",
+                "location": "Mexico City",
+                "narrative": "With the help of Albert Einstein, she got a teaching position in Mexico City the following year.",
+                "order": "mid",
+                "target": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93,
+                    40.73
+                ]
+            },
+            "properties": {
+                "rowid": "5",
+                "id": "52591350",
+                "name": "Marietta Blau",
+                "field": "Physics",
+                "year": "1944",
+                "location": "New York City",
+                "narrative": "She had difficulty working in Mexico, and received a position in New York in 1944.",
+                "order": "mid",
+                "target": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.19,
+                    25.76
+                ]
+            },
+            "properties": {
+                "rowid": "6",
+                "id": "52591350",
+                "name": "Marietta Blau",
+                "field": "Physics",
+                "year": "1955",
+                "location": "Miami",
+                "narrative": "In 1955, she took a position in Miami.",
+                "order": "mid",
+                "target": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37,
+                    48.21
+                ]
+            },
+            "properties": {
+                "rowid": "7",
+                "id": "52591350",
+                "name": "Marietta Blau",
+                "field": "Physics",
+                "year": "1960",
+                "location": "Vienna",
+                "narrative": "In 1960, she returned to Vienna due to her inaibility to receive adequate medical care in the US.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49,
+                    41.9
+                ]
+            },
+            "properties": {
+                "rowid": "8",
+                "id": "gina-castelnuovo-biology",
+                "name": "Gina Castelnuovo",
+                "field": "Biology",
+                "year": "1920",
+                "location": "Rome",
+                "narrative": "Gina Castelnuovo began her career in Rome.",
+                "order": "first",
+                "target": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89,
+                    52.37
+                ]
+            },
+            "properties": {
+                "rowid": "9",
+                "id": "gina-castelnuovo-biology",
+                "name": "Gina Castelnuovo",
+                "field": "Biology",
+                "year": "1938",
+                "location": "Amsterdam",
+                "narrative": "In 1938, while she had a visiting appointment in Amsterdam, she received news that she lost her job in Italy on account of being Jewish.",
+                "order": "mid",
+                "target": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56,
+                    55.67
+                ]
+            },
+            "properties": {
+                "rowid": "10",
+                "id": "gina-castelnuovo-biology",
+                "name": "Gina Castelnuovo",
+                "field": "Biology",
+                "year": "1938",
+                "location": "Copenhagen",
+                "narrative": "She fled for Copenhagen.",
+                "order": "mid",
+                "target": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.73,
+                    42.27
+                ]
+            },
+            "properties": {
+                "rowid": "11",
+                "id": "gina-castelnuovo-biology",
+                "name": "Gina Castelnuovo",
+                "field": "Biology",
+                "year": "1939",
+                "location": "Ann Arbor, MI",
+                "narrative": "The following year, she stayed with the Fermi family in Ann Arbor, Michigan.",
+                "order": "mid",
+                "target": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16,
+                    39.95
+                ]
+            },
+            "properties": {
+                "rowid": "12",
+                "id": "gina-castelnuovo-biology",
+                "name": "Gina Castelnuovo",
+                "field": "Biology",
+                "year": "1940",
+                "location": "Philadelphia",
+                "narrative": "She then received a low level job in Philadelphia.",
+                "order": "mid",
+                "target": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.32,
+                    38.95
+                ]
+            },
+            "properties": {
+                "rowid": "13",
+                "id": "gina-castelnuovo-biology",
+                "name": "Gina Castelnuovo",
+                "field": "Biology",
+                "year": "1942",
+                "location": "Columbia, MO",
+                "narrative": "In 1942, she received a more stable position in Columbia, Missouri.",
+                "order": "mid",
+                "target": "14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49,
+                    41.9
+                ]
+            },
+            "properties": {
+                "rowid": "14",
+                "id": "gina-castelnuovo-biology",
+                "name": "Gina Castelnuovo",
+                "field": "Biology",
+                "year": "1948",
+                "location": "Rome",
+                "narrative": "By 1948, she was back in Italy, where she spent the rest of her career.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93,
+                    40.73
+                ]
+            },
+            "properties": {
+                "rowid": "15",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "1920",
+                "location": "New York City",
+                "narrative": "Though born in Russia, Vera Danchakoff had worked in New York since 1915.",
+                "order": "first",
+                "target": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.61,
+                    55.75
+                ]
+            },
+            "properties": {
+                "rowid": "16",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "[1927]",
+                "location": "Moscow",
+                "narrative": "Around 1927, she moved to the Soviet Union.",
+                "order": "mid",
+                "target": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93,
+                    40.25
+                ]
+            },
+            "properties": {
+                "rowid": "17",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "[1929]",
+                "location": "New York City",
+                "narrative": "But, as she was now a US citizen, she could only stay for two years and returned to the States.",
+                "order": "mid",
+                "target": "18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.34,
+                    48.86
+                ]
+            },
+            "properties": {
+                "rowid": "18",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "[1934]",
+                "location": "Paris",
+                "narrative": "Around 1934, her department was dissolved at Columbia and she had no immediate job prospects. She left for Paris.",
+                "order": "mid",
+                "target": "19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9,
+                    54.89
+                ]
+            },
+            "properties": {
+                "rowid": "19",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "[1934]",
+                "location": "Kaunas, Lithuania",
+                "narrative": "She then received a three-year position in Lithuania. She also frequently visited her daughter in Moscow during this time.",
+                "order": "mid",
+                "target": "20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1,
+                    48.14
+                ]
+            },
+            "properties": {
+                "rowid": "20",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "1937",
+                "location": "Bratislava",
+                "narrative": "In 1937, she attempted to return more permanently to Moscow, but was denied a Russian visa. She moved to Bratislava.",
+                "order": "mid",
+                "target": "21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3,
+                    40.85
+                ]
+            },
+            "properties": {
+                "rowid": "21",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "1939",
+                "location": "Naples",
+                "narrative": "When Germany invaded the region in 1939, she fled to Naples.",
+                "order": "mid",
+                "target": "22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.63,
+                    46.51
+                ]
+            },
+            "properties": {
+                "rowid": "22",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "1940",
+                "location": "Lausanne",
+                "narrative": "When Italy joined the war in 1940, she fled to Switzerland.",
+                "order": "mid",
+                "target": "23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93,
+                    40.73
+                ]
+            },
+            "properties": {
+                "rowid": "23",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "1941",
+                "location": "New York City",
+                "narrative": "In 1941, she had to return to the US to keep her US citizenship. Otherwise, she would have become stateless.",
+                "order": "mid",
+                "target": "24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62,
+                    41.88
+                ]
+            },
+            "properties": {
+                "rowid": "24",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "[1943]",
+                "location": "Chicago",
+                "narrative": "She may have spent some time in Chicago.",
+                "order": "mid",
+                "target": "25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.63,
+                    46.51
+                ]
+            },
+            "properties": {
+                "rowid": "25",
+                "id": "42682155",
+                "name": "Vera Danchakoff",
+                "field": "Biology",
+                "year": "[1950]",
+                "location": "Lausanne",
+                "narrative": "By 1950, it seems she returned to Europe.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.71,
+                    46.48
+                ]
+            },
+            "properties": {
+                "rowid": "26",
+                "id": "vera-dolgopol-medicine",
+                "name": "Vera Dolgopol",
+                "field": "Medicine",
+                "year": "1920",
+                "location": "Odesa",
+                "narrative": "Vera Dolgopol attended college in Odesa.",
+                "order": "first",
+                "target": "27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16,
+                    39.95
+                ]
+            },
+            "properties": {
+                "rowid": "27",
+                "id": "vera-dolgopol-medicine",
+                "name": "Vera Dolgopol",
+                "field": "Medicine",
+                "year": "1924",
+                "location": "Philadelphia",
+                "narrative": "In the early 1920s, she moved to the United States and was educated in Philadelphia.",
+                "order": "mid",
+                "target": "28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93,
+                    40.73
+                ]
+            },
+            "properties": {
+                "rowid": "28",
+                "id": "vera-dolgopol-medicine",
+                "name": "Vera Dolgopol",
+                "field": "Medicine",
+                "year": "1926",
+                "location": "New York City",
+                "narrative": "In 1926, she began looking for jobs in New York. She went on to have a long career as a pathologist at several hospitals in New York City.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68,
+                    50.11
+                ]
+            },
+            "properties": {
+                "rowid": "29",
+                "id": "54898057",
+                "name": "Tilly Edinger",
+                "field": "Paleontology",
+                "year": "1920",
+                "location": "Frankfurt am Main",
+                "narrative": "Tilly Edinger began her career in Frankfurt. She lost her job in 1933 on account of being Jewish, but continued to work in Frankfurt in secret.",
+                "order": "first",
+                "target": "30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11,
+                    51.5
+                ]
+            },
+            "properties": {
+                "rowid": "30",
+                "id": "54898057",
+                "name": "Tilly Edinger",
+                "field": "Paleontology",
+                "year": "1939",
+                "location": "London",
+                "narrative": "In 1939, she fled for London.",
+                "order": "mid",
+                "target": "31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.11,
+                    42.37
+                ]
+            },
+            "properties": {
+                "rowid": "31",
+                "id": "54898057",
+                "name": "Tilly Edinger",
+                "field": "Paleontology",
+                "year": "1940",
+                "location": "Cambridge, MA",
+                "narrative": "In 1940, she fled to the United States and found work at Harvard. She spent the rest of her career there.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.38,
+                    43.11
+                ]
+            },
+            "properties": {
+                "rowid": "32",
+                "id": "264088554",
+                "name": "Anna Foà",
+                "field": "Entomology",
+                "year": "1920",
+                "location": "Perugia",
+                "narrative": "Anna Foà started her career in Perugia.",
+                "order": "first",
+                "target": "33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3,
+                    40.85
+                ]
+            },
+            "properties": {
+                "rowid": "33",
+                "id": "264088554",
+                "name": "Anna Foà",
+                "field": "Entomology",
+                "year": "1924",
+                "location": "Naples",
+                "narrative": "She then moved to Naples around 1924. In 1938, she lost her job on account of being Jewish, but seems to have remained in Italy.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.84,
+                    47.99
+                ]
+            },
+            "properties": {
+                "rowid": "34",
+                "id": "47716433",
+                "name": "Salome Gluecksohn-Waelsch",
+                "field": "Genetics",
+                "year": "1928",
+                "location": "Freiburg",
+                "narrative": "Salome Glueckson-Waelsch started her career in Freiburg.",
+                "order": "first",
+                "target": "35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93,
+                    40.73
+                ]
+            },
+            "properties": {
+                "rowid": "35",
+                "id": "47716433",
+                "name": "Salome Gluecksohn-Waelsch",
+                "field": "Genetics",
+                "year": "1933",
+                "location": "New York City",
+                "narrative": "In 1933, she fled for New York City. She got a job at Columbia in 1936. She remained there for the rest of her life, researching actively into the 1990s.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.74,
+                    45.11
+                ]
+            },
+            "properties": {
+                "rowid": "36",
+                "id": "85738872",
+                "name": "Rita Levi-Montalcini",
+                "field": "Biology",
+                "year": "1930",
+                "location": "Turin",
+                "narrative": "Rita Levi-Montalcini started her career in Turin. She continued working there even after losing her job in 1938 on account of being Jewish.",
+                "order": "first",
+                "target": "37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.25,
+                    43.76
+                ]
+            },
+            "properties": {
+                "rowid": "37",
+                "id": "85738872",
+                "name": "Rita Levi-Montalcini",
+                "field": "Biology",
+                "year": "1943",
+                "location": "Florence",
+                "narrative": "In 1943, she fled south to Florence. Her family received protection from non-Jewish friends.",
+                "order": "mid",
+                "target": "38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.74,
+                    45.5
+                ]
+            },
+            "properties": {
+                "rowid": "38",
+                "id": "85738872",
+                "name": "Rita Levi-Montalcini",
+                "field": "Biology",
+                "year": "1945",
+                "location": "Turin",
+                "narrative": "In 1945, she returned to Turin.",
+                "order": "mid",
+                "target": "39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.19,
+                    38.62
+                ]
+            },
+            "properties": {
+                "rowid": "39",
+                "id": "85738872",
+                "name": "Rita Levi-Montalcini",
+                "field": "Biology",
+                "year": "1946",
+                "location": "St. Louis",
+                "narrative": "In 1946, she was offered a job in St. Louis. It wasn't until 1962 that she established a second laboratory in Italy.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4,
+                    53.0
+                ]
+            },
+            "properties": {
+                "rowid": "40",
+                "id": "64160163",
+                "name": "Lise Meitner",
+                "field": "Physics",
+                "year": "1920",
+                "location": "Berlin",
+                "narrative": "Lise Meitner started her career in Berlin.",
+                "order": "first",
+                "target": "41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06,
+                    59.33
+                ]
+            },
+            "properties": {
+                "rowid": "41",
+                "id": "64160163",
+                "name": "Lise Meitner",
+                "field": "Physics",
+                "year": "1938",
+                "location": "Stockholm",
+                "narrative": "In 1938, she fled to Stockholm through the Netherlands. She spent the rest of her career in Stockholm.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5,
+                    51.54
+                ]
+            },
+            "properties": {
+                "rowid": "42",
+                "id": "73918294",
+                "name": "Emmy Noether",
+                "field": "Mathematics",
+                "year": "1920",
+                "location": "Göttingen",
+                "narrative": "Emmy Noether taught mathematics in Göttingen.",
+                "order": "first",
+                "target": "43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.61,
+                    55.75
+                ]
+            },
+            "properties": {
+                "rowid": "43",
+                "id": "73918294",
+                "name": "Emmy Noether",
+                "field": "Mathematics",
+                "year": "1928",
+                "location": "Moscow",
+                "narrative": "In 1928, she spent a semester working in Moscow.",
+                "order": "mid",
+                "target": "44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5,
+                    51.2
+                ]
+            },
+            "properties": {
+                "rowid": "44",
+                "id": "73918294",
+                "name": "Emmy Noether",
+                "field": "Mathematics",
+                "year": "1929",
+                "location": "Göttingen",
+                "narrative": "After that semester, she returned to Göttingen. She had plans to return to Moscow.",
+                "order": "mid",
+                "target": "45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.31,
+                    40.02
+                ]
+            },
+            "properties": {
+                "rowid": "45",
+                "id": "73918294",
+                "name": "Emmy Noether",
+                "field": "Mathematics",
+                "year": "1933",
+                "location": "Bryn Mawr, PA",
+                "narrative": "But when she lost her position in 1933 on account of being Jewish and a socialist, she instead fled for the United States, securing a position at Bryn Mawr College with Albert Einstein's help. She died unexpectedly in 1935.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5,
+                    51.54
+                ]
+            },
+            "properties": {
+                "rowid": "46",
+                "id": "20509982",
+                "name": "Hertha Sponer",
+                "field": "Physics",
+                "year": "1920",
+                "location": "Göttingen",
+                "narrative": "Hertha Sponer completed her PhD in Göttingen.",
+                "order": "first",
+                "target": "47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.27,
+                    37.87
+                ]
+            },
+            "properties": {
+                "rowid": "47",
+                "id": "20509982",
+                "name": "Hertha Sponer",
+                "field": "Physics",
+                "year": "1925",
+                "location": "Berkeley, CA",
+                "narrative": "In 1925, she spent a year as a research fellow at the University of California Berkely.",
+                "order": "mid",
+                "target": "48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5,
+                    51.2
+                ]
+            },
+            "properties": {
+                "rowid": "48",
+                "id": "20509982",
+                "name": "Hertha Sponer",
+                "field": "Physics",
+                "year": "1926",
+                "location": "Göttingen",
+                "narrative": "Afterwards, she returned to Göttingen. Though she was not Jewish, she lost her job in 1933 due to Nazi prejudices against women.",
+                "order": "mid",
+                "target": "49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75,
+                    59.91
+                ]
+            },
+            "properties": {
+                "rowid": "49",
+                "id": "20509982",
+                "name": "Hertha Sponer",
+                "field": "Physics",
+                "year": "1934",
+                "location": "Oslo",
+                "narrative": "She obtained a teaching position in Oslo in 1934.",
+                "order": "mid",
+                "target": "50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.89,
+                    35.99
+                ]
+            },
+            "properties": {
+                "rowid": "50",
+                "id": "20509982",
+                "name": "Hertha Sponer",
+                "field": "Physics",
+                "year": "1936",
+                "location": "Durham, NC",
+                "narrative": "In 1936, she became a professor at Duke University and moved to the United States. She spent the rest of her career there, returning to Germany only after retiring.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.07,
+                    29.95
+                ]
+            },
+            "properties": {
+                "rowid": "51",
+                "id": "rose-mooney-slater-physics",
+                "name": "Rose Mooney-Slater",
+                "field": "Physics",
+                "year": "1932",
+                "location": "New Orleans",
+                "narrative": "Rose Mooney-Slater started her career as an assistant professor at Newcomb College, in her native Louisiana.",
+                "order": "first",
+                "target": "52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89,
+                    52.37
+                ]
+            },
+            "properties": {
+                "rowid": "52",
+                "id": "rose-mooney-slater-physics",
+                "name": "Rose Mooney-Slater",
+                "field": "Physics",
+                "year": "1939",
+                "location": "Amsterdam",
+                "narrative": "In 1939, she was awarded a Guggenheim Fellowship to do research in Amsterdam.",
+                "order": "mid",
+                "target": "53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.11,
+                    42.37
+                ]
+            },
+            "properties": {
+                "rowid": "53",
+                "id": "rose-mooney-slater-physics",
+                "name": "Rose Mooney-Slater",
+                "field": "Physics",
+                "year": "1939",
+                "location": "Cambridge, MA",
+                "narrative": "However, the war broke out almost as soon as she arrived. She was forced to return to the United States, finishing her Guggenheim fellowship at MIT.",
+                "order": "mid",
+                "target": "54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.07,
+                    29.95
+                ]
+            },
+            "properties": {
+                "rowid": "54",
+                "id": "rose-mooney-slater-physics",
+                "name": "Rose Mooney-Slater",
+                "field": "Physics",
+                "year": "1941",
+                "location": "New Orleans",
+                "narrative": "She later returned to Newcomb College.",
+                "order": "mid",
+                "target": "55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62,
+                    41.88
+                ]
+            },
+            "properties": {
+                "rowid": "55",
+                "id": "rose-mooney-slater-physics",
+                "name": "Rose Mooney-Slater",
+                "field": "Physics",
+                "year": "1943",
+                "location": "Chicago",
+                "narrative": "In 1943, she moved to Chicago to work on the Manhattan Project. She was the highest ranking woman scientist on the project.",
+                "order": "mid",
+                "target": "56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.9,
+                    29.95
+                ]
+            },
+            "properties": {
+                "rowid": "56",
+                "id": "rose-mooney-slater-physics",
+                "name": "Rose Mooney-Slater",
+                "field": "Physics",
+                "year": "1945",
+                "location": "New Orleans",
+                "narrative": "Following the conclusion of the project, she returned to New Orleans.",
+                "order": "last",
+                "target": "NULL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.34,
+                    48.86
+                ]
+            },
+            "properties": {
+                "rowid": "57",
+                "id": "nine-choucroun-biochemistry",
+                "name": "Nine Choucroun",
+                "field": "Biochemistry",
+                "year": "1920",
+                "location": "Paris",
+                "narrative": "Nine Choucroun was born in Algeria, but she had established herself as a successful scientist in Paris.",
+                "order": "first",
+                "target": "58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6,
+                    33.58
+                ]
+            },
+            "properties": {
+                "rowid": "58",
+                "id": "nine-choucroun-biochemistry",
+                "name": "Nine Choucroun",
+                "field": "Biochemistry",
+                "year": "1940",
+                "location": "Casablanca",
+                "narrative": "In 1940, she and her partner Jean Perrin fled Paris. They boaded the ocean liner <i>Massilia</i> with the French government and went to Casablanca.",
+                "order": "mid",
+                "target": "59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93,
+                    40.73
+                ]
+            },
+            "properties": {
+                "rowid": "59",
+                "id": "nine-choucroun-biochemistry",
+                "name": "Nine Choucroun",
+                "field": "Biochemistry",
+                "year": "1941",
+                "location": "New York City",
+                "narrative": "Choucroun likely stayed in several other places in northern Africa and Vichy France, but she ended up in New York City in 1941.",
+                "order": "mid",
+                "target": "60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.34,
+                    48.86
+                ]
+            },
+            "properties": {
+                "rowid": "60",
+                "id": "nine-choucroun-biochemistry",
+                "name": "Nine Choucroun",
+                "field": "Biochemistry",
+                "year": "1952",
+                "location": "Paris",
+                "narrative": "She worked in New York for over a decade before returning to France in 1952.",
+                "order": "last",
+                "target": "NULL"
+            }
+        }
+    ]
+}

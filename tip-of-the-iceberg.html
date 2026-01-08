@@ -1,0 +1,89 @@
+---
+layout: default
+title: Tip of the Iceberg
+---
+
+<section>
+<h1 class="toti-head">Tip of the Iceberg</h1>
+<p>Science continues to expand, and the APS plays an active role in promoting and funding women scientists. On this page, we feature four scientists who are APS members or grant and fellowship recipients each month.</p>
+<p>For an archive of previously featured scientists, click below:</p>
+<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseArchive" aria-expanded="false" aria-controls="collapseArchive">
+    View previous posts
+</button>
+</p>
+<div class="collapse" id="collapseArchive">
+    <div class="card card-body">
+        <ul>
+            {% for post in site.posts %}
+                <li>
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+</section>
+<article class="toti">
+    <article class="toti">
+        {% include totibox.html id="image1"
+                             align="left-box"
+                             src="/assets/img/toti/tardos.jpg"
+                             height="400"
+                             width="400"
+                             caption="Image courtesy of Eva Tardos"
+                             alt="Close-up image of a woman with glasses wearing a white blouse and black cardigan, her hand resting on the side of her face with her pointer-finger extended upward. "
+                             %}
+        <h2>APS asks a scientist...</h2>
+        <p>The APS surveyed Members who are female scientists to learn more about their lives and career paths. We asked mathematician <strong>Dr. Eva Tardos (APS 2020)</strong>:</p>
+        <p><strong>As an APS Member, you have been recognized for your significant contributions to your fields. Please describe the obstacles, opportunities, or defining moments that led to your success.</strong></p>
+        <p>I was an undergraduate math student at Eotvos University in Hungary. In my last year as an undergraduate student, Laci Babai came home from the University of Chicago, and offered a seminar where we learned about the most exciting new developments in algorithms. This seminar opened up an exciting area of research for me.</p>
+        <p>As a Hungarian graduating with a PhD in 1984 (from Eotvos University), it was harder to connect with the broader scientific community. Many senior scientists helped. The opportunity that had the biggest impact on my career was a postdoc at the Mathematical Sciences Research Institute in Berkeley as part of the “Complexity Year” in 1985-86. This year introduced me to the theory of computing community.</p>
+    </article>
+    <hr>
+<article class="toti">
+    {% include totibox.html id="image2"
+                             align="right-box"
+                             src="/assets/img/toti/boyd.jpg"
+                             height="350"
+                             width="400"
+                             caption="Photo by and courtesy of Anjali Boyd"
+                             alt="Boyd, a woman with curly black hair, is seated on a dock in front of a placid body of water, dressed in a casual outfit."
+                             %}
+    <h2>Anjali Boyd</h2>
+    <h3>Lewis and Clark Field Scholar, 2021-2022</h3>
+    <p>Anjali Boyd is a Ph.D.student at Duke University studying marine ecology.  In 2022, she completed APS-funded field work for her project “Effects of Top Predator Decline and Nutrient Pollution on Coastal Ecosystem Structure”. This research focuses on the mesopredator release hypothesis - that losing top predators in an ecosystem causes an increase in animals they prey on and has cascading effects on the rest of an ecosystem’s food web.</p>
+    <p>Within the seagrass ecosystems, Ms. Boyd examines how the mesopredator hypothesis may be a reason why world seagrass populations are declining. Changes up the food chain have caused a decrease in small grazers that eat algae, which competes with seagrasses for resources. To test her hypothesis, she ran experiments along the shorelines of North Carolina, Georgia, Florida, and Belize controlling for mesopredator density and nutrient availability.</p>
+    <p>Beyond her research, she strives to bring her experience and knowledge to the community. In 2020, she was elected Soil and Water Conservation District Supervisor for Durham, North Carolina. She has also encouraged the next generation of scientists by designing youth science programs and grade school STEM curriculum.</p>
+    </article>
+<hr>
+<article class="toti">
+    {% include totibox.html id="image3"
+                             align="left-box"
+                             src="/assets/img/toti/meyer.jpg"
+                             height="400"
+                             width="399"
+                             caption="Image courtesy of Barbara Meyer"
+                             alt="A woman with brown hair is standing in front of a wall filled with images of cells."
+                             %}
+    <h2>APS asks a scientist...</h2>
+    <p>The APS surveyed Members who are female scientists to learn more about their lives and career paths. We asked biologist <strong>Dr. Barbara Meyer (APS 2014)</strong>:</p>
+    <p><strong>What is a piece of advice you would tell your younger self? What would you tell up-and-coming women in science?</strong></p>
+    <p>Follow your intellectual passions and don't listen to people who claim you are not qualified or don't have enough experience to pursue your interests.</p>
+    </article>
+<hr>
+<br>
+<article class="toti">
+    {% include totibox.html id="image4"
+                         align="right-box"
+                         src="/assets/img/toti/griffin.jpg"
+                         height="400"
+                         width="300"
+                         caption="Image courtesy of Diane Griffin"
+                         alt="Griffin, a woman with blond hair wearing a white blouse and black blazer, is pictured in front of a blurred-out city."
+                         %}
+    <h2>APS asks a scientist...</h2>
+    <h3>APS Member, elected 2005</h3>
+    <p>The APS surveyed Members who are female scientists to learn more about their lives and career paths. We asked microbiologist and immunologist <strong>Diane E. Griffin (APS 2018)</strong>:</p>
+    <p><strong>What has the role of others, such as mentors and peers, been in your career?</strong></p>
+    <p>Mentors were key. When I was going to leave the PhD program to go to medical school, my Stanford PhD mentor, Leon Rosenberg, said that I should do both.  This was before there was an MD/PhD program at Stanford, but excellent advice as the dual degree provided the right training and opportunities.  The other critical mentor was Richard Johnson my postdoctoral mentor at Johns Hopkins - a pioneer in studying how viruses cause disease.  He provided inspiration, enthusiasm, perspective, guidance, and encouragement, and promoted my career at many junctures.</p>
+</article>

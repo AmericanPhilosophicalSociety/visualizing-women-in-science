@@ -1,0 +1,1300 @@
+---
+layout: none
+---
+[
+    {
+        "person": "Maude E. Abbott",
+        "permalink": "/bios/74657198",
+        "lunr_id": 0
+    },
+    {
+        "person": "Fran Adar",
+        "permalink": "/bios/271256726",
+        "lunr_id": 1
+    },
+    {
+        "person": "Lewis Affronti",
+        "permalink": "/bios/lewis-affronti-microbiology",
+        "lunr_id": 2
+    },
+    {
+        "person": "Nanci R. Aiken",
+        "permalink": "/bios/nanci-aiken-chemistry",
+        "lunr_id": 3
+    },
+    {
+        "person": "Dorothy H. Anderson",
+        "permalink": "/bios/dorothy-anderson-pathology",
+        "lunr_id": 4
+    },
+    {
+        "person": "Nora Archer",
+        "permalink": "/bios/nora-archer-medicine",
+        "lunr_id": 5
+    },
+    {
+        "person": "Anna Baetjer",
+        "permalink": "/bios/31884691",
+        "lunr_id": 6
+    },
+    {
+        "person": "S. Josephine Baker",
+        "permalink": "/bios/41048301",
+        "lunr_id": 7
+    },
+    {
+        "person": "Elizabeth Bass",
+        "permalink": "/bios/elizabeth-bass-medicine",
+        "lunr_id": 8
+    },
+    {
+        "person": "Pam Batchelor",
+        "permalink": "/bios/pam-batchelor-biophysics",
+        "lunr_id": 9
+    },
+    {
+        "person": "Frieda Baumann",
+        "permalink": "/bios/frieda-baumann-medicine",
+        "lunr_id": 10
+    },
+    {
+        "person": "Adelaide Baylis",
+        "permalink": "/bios/19369819",
+        "lunr_id": 11
+    },
+    {
+        "person": "Rose F. Beals",
+        "permalink": "/bios/70593498",
+        "lunr_id": 12
+    },
+    {
+        "person": "Regina C. Beck",
+        "permalink": "/bios/regina-beck-pathology",
+        "lunr_id": 13
+    },
+    {
+        "person": "Ruth Rogan Benerito",
+        "permalink": "/bios/ruth-benerito-chemistry",
+        "lunr_id": 14
+    },
+    {
+        "person": "Ellen Burtner Bevilacqua",
+        "permalink": "/bios/ellen-bevilacqua-chemistry",
+        "lunr_id": 15
+    },
+    {
+        "person": "Marietta Blau",
+        "permalink": "/bios/52591350",
+        "lunr_id": 16
+    },
+    {
+        "person": "Minnie Wright Blogg",
+        "permalink": "/bios/minnie-wright-blogg-medicine",
+        "lunr_id": 17
+    },
+    {
+        "person": "Lizann Bolinger",
+        "permalink": "/bios/lizann-bolinger-biophysics",
+        "lunr_id": 18
+    },
+    {
+        "person": "Kristine Bonnevie",
+        "permalink": "/bios/39739770",
+        "lunr_id": 19
+    },
+    {
+        "person": "Marcella O'Grady Boveri",
+        "permalink": "/bios/67213469",
+        "lunr_id": 20
+    },
+    {
+        "person": "Ruth Breitwieser",
+        "permalink": "/bios/ruth-breitwieser-medicine",
+        "lunr_id": 21
+    },
+    {
+        "person": "Esther Breslow",
+        "permalink": "/bios/esther-breslow-biochemistry",
+        "lunr_id": 22
+    },
+    {
+        "person": "Matilda Moldenhauer Brooks",
+        "permalink": "/bios/72414842",
+        "lunr_id": 23
+    },
+    {
+        "person": "Esther Caukin Brunauer",
+        "permalink": "/bios/309564051",
+        "lunr_id": 24
+    },
+    {
+        "person": "Ute Busemann",
+        "permalink": "/bios/ute-reid-microbiology",
+        "lunr_id": 25
+    },
+    {
+        "person": "Mary Caldwell",
+        "permalink": "/bios/232496189",
+        "lunr_id": 26
+    },
+    {
+        "person": "Charlotte C. Campbell",
+        "permalink": "/bios/charlotte-campbell-medicine",
+        "lunr_id": 27
+    },
+    {
+        "person": "Mamie Cameron",
+        "permalink": "/bios/mamie-cameron-microbiology",
+        "lunr_id": 28
+    },
+    {
+        "person": "Annie Jump Cannon",
+        "permalink": "/bios/37667347",
+        "lunr_id": 29
+    },
+    {
+        "person": "Carol Caperelli",
+        "permalink": "/bios/carol-caperelli-biology",
+        "lunr_id": 30
+    },
+    {
+        "person": "Rachel Carson",
+        "permalink": "/bios/4927694",
+        "lunr_id": 31
+    },
+    {
+        "person": "Gina Castelnuovo",
+        "permalink": "/bios/gina-castelnuovo-biology",
+        "lunr_id": 32
+    },
+    {
+        "person": "Vicki L. Chandler",
+        "permalink": "/bios/vicki-chandler-genetics",
+        "lunr_id": 33
+    },
+    {
+        "person": "Nine Choucroun",
+        "permalink": "/bios/nine-choucroun-biochemistry",
+        "lunr_id": 34
+    },
+    {
+        "person": "Janet Howell Clark",
+        "permalink": "/bios/34818238",
+        "lunr_id": 35
+    },
+    {
+        "person": "Joan R. Clark",
+        "permalink": "/bios/joan-clark-chemistry",
+        "lunr_id": 36
+    },
+    {
+        "person": "Sheila Cohen",
+        "permalink": "/bios/3928471",
+        "lunr_id": 37
+    },
+    {
+        "person": "Mildred Cohn",
+        "permalink": "/bios/28353569",
+        "lunr_id": 38
+    },
+    {
+        "person": "Rosette Coidan",
+        "permalink": "/bios/rosette-coidan-medicine",
+        "lunr_id": 39
+    },
+    {
+        "person": "Gerty T. Cori",
+        "permalink": "/bios/69754373",
+        "lunr_id": 40
+    },
+    {
+        "person": "George Washington Corner",
+        "permalink": "/bios/42219648",
+        "lunr_id": 41
+    },
+    {
+        "person": "Harriet Creighton",
+        "permalink": "/bios/14461774",
+        "lunr_id": 42
+    },
+    {
+        "person": "Ir\u00e8ne Curie",
+        "permalink": "/bios/51749209",
+        "lunr_id": 43
+    },
+    {
+        "person": "Marie Curie",
+        "permalink": "/bios/76353174",
+        "lunr_id": 44
+    },
+    {
+        "person": "Vera Danchakoff",
+        "permalink": "/bios/42682155",
+        "lunr_id": 45
+    },
+    {
+        "person": "Ethel Mya Das",
+        "permalink": "/bios/ethel-das-medicine",
+        "lunr_id": 46
+    },
+    {
+        "person": "Gladys Dow Daskam",
+        "permalink": "/bios/gladys-daskam-medicine",
+        "lunr_id": 47
+    },
+    {
+        "person": "Dorothy K. Daspit",
+        "permalink": "/bios/dorothy-daspit-physics",
+        "lunr_id": 48
+    },
+    {
+        "person": "Muriel Davisson",
+        "permalink": "/bios/43170159",
+        "lunr_id": 49
+    },
+    {
+        "person": "Hadassa Degani",
+        "permalink": "/bios/hadassa-degani-biochemistry",
+        "lunr_id": 50
+    },
+    {
+        "person": "Ella Strong Denison",
+        "permalink": "/bios/denison-medicine",
+        "lunr_id": 51
+    },
+    {
+        "person": "Mary Denton",
+        "permalink": "/bios/mary-denton-medicine",
+        "lunr_id": 52
+    },
+    {
+        "person": "Gladys Dick",
+        "permalink": "/bios/26144977",
+        "lunr_id": 53
+    },
+    {
+        "person": "Margaret Dickie",
+        "permalink": "/bios/margaret-dickie-genetics",
+        "lunr_id": 54
+    },
+    {
+        "person": "Hannelore Diefenbach",
+        "permalink": "/bios/hannelore-diefenbach-biochemistry",
+        "lunr_id": 55
+    },
+    {
+        "person": "Irene Corey Diller",
+        "permalink": "/bios/irene-diller-medicine",
+        "lunr_id": 56
+    },
+    {
+        "person": "Lavinia Dock",
+        "permalink": "/bios/100983087",
+        "lunr_id": 57
+    },
+    {
+        "person": "Vera Dolgopol",
+        "permalink": "/bios/vera-dolgopol-medicine",
+        "lunr_id": 58
+    },
+    {
+        "person": "Deborah Dunaway-Mariano",
+        "permalink": "/bios/deborah-dunaway-mariano-chemistry",
+        "lunr_id": 59
+    },
+    {
+        "person": "Thelma B. Dunn",
+        "permalink": "/bios/257559132",
+        "lunr_id": 60
+    },
+    {
+        "person": "Wilhelmina Dunning",
+        "permalink": "/bios/wilhelmina-dunning-medicine",
+        "lunr_id": 61
+    },
+    {
+        "person": "Ethel C. Dunham",
+        "permalink": "/bios/78379086",
+        "lunr_id": 62
+    },
+    {
+        "person": "Lucia J. Dunham",
+        "permalink": "/bios/32156130955658311554",
+        "lunr_id": 63
+    },
+    {
+        "person": "Tilly Edinger",
+        "permalink": "/bios/54898057",
+        "lunr_id": 64
+    },
+    {
+        "person": "Lydia Edwards",
+        "permalink": "/bios/45343638",
+        "lunr_id": 65
+    },
+    {
+        "person": "Phyllis Q. Edwards",
+        "permalink": "/bios/phyllis-edwards-medicine",
+        "lunr_id": 66
+    },
+    {
+        "person": "Eva Eicher",
+        "permalink": "/bios/eva-eicher-genetics",
+        "lunr_id": 67
+    },
+    {
+        "person": "Albert Einstein",
+        "permalink": "/bios/75121530",
+        "lunr_id": 68
+    },
+    {
+        "person": "Martha May Eliot",
+        "permalink": "/bios/21742943",
+        "lunr_id": 69
+    },
+    {
+        "person": "Emily Emmart",
+        "permalink": "/bios/emily-emmart-medicine",
+        "lunr_id": 70
+    },
+    {
+        "person": "Rhoda Erdmann",
+        "permalink": "/bios/77069858",
+        "lunr_id": 71
+    },
+    {
+        "person": "Maria Erecinska",
+        "permalink": "/bios/93318566",
+        "lunr_id": 72
+    },
+    {
+        "person": "Christine Essenberg",
+        "permalink": "/bios/91195075",
+        "lunr_id": 73
+    },
+    {
+        "person": "Nina Simmonds Estill",
+        "permalink": "/bios/26242763",
+        "lunr_id": 74
+    },
+    {
+        "person": "Alice Evans",
+        "permalink": "/bios/16452241",
+        "lunr_id": 75
+    },
+    {
+        "person": "Audrey Evans",
+        "permalink": "/bios/92639138",
+        "lunr_id": 76
+    },
+    {
+        "person": "Angelina Fabrizio",
+        "permalink": "/bios/angelina-fabrizio-microbiology",
+        "lunr_id": 77
+    },
+    {
+        "person": "Marion Fay",
+        "permalink": "/bios/106916582",
+        "lunr_id": 78
+    },
+    {
+        "person": "Nina V. Fedoroff",
+        "permalink": "/bios/28723949",
+        "lunr_id": 79
+    },
+    {
+        "person": "Margaret Clay Ferguson",
+        "permalink": "/bios/194053710",
+        "lunr_id": 80
+    },
+    {
+        "person": "Abraham Flexner",
+        "permalink": "/bios/24735888",
+        "lunr_id": 81
+    },
+    {
+        "person": "Laura Florence",
+        "permalink": "/bios/282980650",
+        "lunr_id": 82
+    },
+    {
+        "person": "Anna Fo\u00e0",
+        "permalink": "/bios/264088554",
+        "lunr_id": 83
+    },
+    {
+        "person": "Virginia K. Frantz",
+        "permalink": "/bios/289288012",
+        "lunr_id": 84
+    },
+    {
+        "person": "Louise Frazee",
+        "permalink": "/bios/louise-frazee-medicine",
+        "lunr_id": 85
+    },
+    {
+        "person": "Lois Fry",
+        "permalink": "/bios/lois-fry-microbiology",
+        "lunr_id": 86
+    },
+    {
+        "person": "Carrie B. Fuld",
+        "permalink": "/bios/97830012",
+        "lunr_id": 87
+    },
+    {
+        "person": "Dorothea Schallert Fuller",
+        "permalink": "/bios/dorothea-fuller-medicine",
+        "lunr_id": 88
+    },
+    {
+        "person": "John Faquhar Fulton",
+        "permalink": "/bios/66595684",
+        "lunr_id": 89
+    },
+    {
+        "person": "Betty Gaffney",
+        "permalink": "/bios/6165624780642240367",
+        "lunr_id": 90
+    },
+    {
+        "person": "Barbara J. Garrison",
+        "permalink": "/bios/0000-0002-7053-5284",
+        "lunr_id": 91
+    },
+    {
+        "person": "Virginia C. Gildersleeve",
+        "permalink": "/bios/113516350",
+        "lunr_id": 92
+    },
+    {
+        "person": "Ann Ginsburg",
+        "permalink": "/bios/55726236",
+        "lunr_id": 93
+    },
+    {
+        "person": "Salome Gluecksohn-Waelsch",
+        "permalink": "/bios/47716433",
+        "lunr_id": 94
+    },
+    {
+        "person": "Jenny Glusker",
+        "permalink": "/bios/51777052",
+        "lunr_id": 95
+    },
+    {
+        "person": "Th\u00e9r\u00e8se Godefroy-Colburn",
+        "permalink": "/bios/therese-godefroy-biochemistry",
+        "lunr_id": 96
+    },
+    {
+        "person": "Ruth E Gordon",
+        "permalink": "/bios/71017888",
+        "lunr_id": 97
+    },
+    {
+        "person": "Arda Green",
+        "permalink": "/bios/arda-green-biochemistry",
+        "lunr_id": 98
+    },
+    {
+        "person": "Margaret Green",
+        "permalink": "/bios/5510273",
+        "lunr_id": 99
+    },
+    {
+        "person": "Marianne Grunberg-Manago",
+        "permalink": "/bios/110625751",
+        "lunr_id": 100
+    },
+    {
+        "person": "Alice Hamilton",
+        "permalink": "/bios/32005966",
+        "lunr_id": 101
+    },
+    {
+        "person": "Dorothy H. Heilman",
+        "permalink": "/bios/523144782715640055973",
+        "lunr_id": 102
+    },
+    {
+        "person": "Marion Hines",
+        "permalink": "/bios/6448391",
+        "lunr_id": 103
+    },
+    {
+        "person": "Ruby Hirose",
+        "permalink": "/bios/ruby-hirose-biochemistry",
+        "lunr_id": 104
+    },
+    {
+        "person": "Elizabeth Hirschfelder",
+        "permalink": "/bios/112006258",
+        "lunr_id": 105
+    },
+    {
+        "person": "Gladys Hobby",
+        "permalink": "/bios/26011575",
+        "lunr_id": 106
+    },
+    {
+        "person": "Dorothy Crowfoot Hodgkin",
+        "permalink": "/bios/91748526",
+        "lunr_id": 107
+    },
+    {
+        "person": "Helen Louise Hopkins",
+        "permalink": "/bios/helen-hopkins-medicine",
+        "lunr_id": 108
+    },
+    {
+        "person": "Margaret Hotchkiss",
+        "permalink": "/bios/margaret-hotchkiss-microbiology",
+        "lunr_id": 109
+    },
+    {
+        "person": "Wilma Hu",
+        "permalink": "/bios/wilma-hu-genetics",
+        "lunr_id": 110
+    },
+    {
+        "person": "Katrina Hummel",
+        "permalink": "/bios/katrina-hummel-genetics",
+        "lunr_id": 111
+    },
+    {
+        "person": "Kate Campbell Hurd-Mead",
+        "permalink": "/bios/1354862",
+        "lunr_id": 112
+    },
+    {
+        "person": "Ida Henrietta Hyde",
+        "permalink": "/bios/68854739",
+        "lunr_id": 113
+    },
+    {
+        "person": "Libbie H. Hyman",
+        "permalink": "/bios/61628052",
+        "lunr_id": 114
+    },
+    {
+        "person": "E. Joyce Isaacs",
+        "permalink": "/bios/joyce-isaacs-medicine",
+        "lunr_id": 115
+    },
+    {
+        "person": "Eleanor Alexander-Jackson",
+        "permalink": "/bios/eleanor-alexander-jackson-bacteriology",
+        "lunr_id": 116
+    },
+    {
+        "person": "Eileen Jaffe",
+        "permalink": "/bios/0000-0003-4294-0386",
+        "lunr_id": 117
+    },
+    {
+        "person": "Mary Ellen Jones",
+        "permalink": "/bios/39437858",
+        "lunr_id": 118
+    },
+    {
+        "person": "J\u00f3zefa Joteyko",
+        "permalink": "/bios/12462457",
+        "lunr_id": 119
+    },
+    {
+        "person": "Barbara Joyce",
+        "permalink": "/bios/barbara-joyce-microbiology",
+        "lunr_id": 120
+    },
+    {
+        "person": "Marlene Kayne",
+        "permalink": "/bios/marlene-kayne-biology",
+        "lunr_id": 121
+    },
+    {
+        "person": "Judith Keyes",
+        "permalink": "/bios/judith-keyes-biology",
+        "lunr_id": 122
+    },
+    {
+        "person": "Helen Dean King",
+        "permalink": "/bios/51423735",
+        "lunr_id": 123
+    },
+    {
+        "person": "Jessie L. King",
+        "permalink": "/bios/jessie-king-physiology",
+        "lunr_id": 124
+    },
+    {
+        "person": "Nancy Kleckner",
+        "permalink": "/bios/60897473",
+        "lunr_id": 125
+    },
+    {
+        "person": "Anita Klein",
+        "permalink": "/bios/45812061",
+        "lunr_id": 126
+    },
+    {
+        "person": "Judith P. Klinman",
+        "permalink": "/bios/61700069",
+        "lunr_id": 127
+    },
+    {
+        "person": "Ruth Kundsin",
+        "permalink": "/bios/47082718",
+        "lunr_id": 128
+    },
+    {
+        "person": "Margaret Herrman Kurbatov",
+        "permalink": "/bios/margaret-kurbatov-chemistry",
+        "lunr_id": 129
+    },
+    {
+        "person": "Henrietta Lacks",
+        "permalink": "/bios/96737226",
+        "lunr_id": 130
+    },
+    {
+        "person": "Rebecca Lancefield",
+        "permalink": "/bios/194154196756120110412",
+        "lunr_id": 131
+    },
+    {
+        "person": "Priscilla Lane",
+        "permalink": "/bios/priscilla-lane-genetics",
+        "lunr_id": 132
+    },
+    {
+        "person": "Aviva Lapidot",
+        "permalink": "/bios/297932822",
+        "lunr_id": 133
+    },
+    {
+        "person": "Eva Soto Figueroa Leake",
+        "permalink": "/bios/eva-leake-microbiology",
+        "lunr_id": 134
+    },
+    {
+        "person": "Elise S. L'Esperance",
+        "permalink": "/bios/elise-lesperance-pathology",
+        "lunr_id": 135
+    },
+    {
+        "person": "Norma LeVeque",
+        "permalink": "/bios/norma-leveque-biology",
+        "lunr_id": 136
+    },
+    {
+        "person": "Rita Levi-Montalcini",
+        "permalink": "/bios/85738872",
+        "lunr_id": 137
+    },
+    {
+        "person": "Margaret Reed Lewis",
+        "permalink": "/bios/240455520",
+        "lunr_id": 138
+    },
+    {
+        "person": "Edith Lincoln",
+        "permalink": "/bios/2896148997680459870000",
+        "lunr_id": 139
+    },
+    {
+        "person": "Virginia Livingston",
+        "permalink": "/bios/57991060",
+        "lunr_id": 140
+    },
+    {
+        "person": "Esmond R. Long",
+        "permalink": "/bios/92247013",
+        "lunr_id": 141
+    },
+    {
+        "person": "Kathleen Lonsdale",
+        "permalink": "/bios/66553571",
+        "lunr_id": 142
+    },
+    {
+        "person": "Patrizia LoPresti",
+        "permalink": "/bios/patrizia-lopresti-psychology",
+        "lunr_id": 143
+    },
+    {
+        "person": "Brenda Lowe",
+        "permalink": "/bios/29265968",
+        "lunr_id": 144
+    },
+    {
+        "person": "Martha L. Ludwig",
+        "permalink": "/bios/martha-ludwig-biochemistry",
+        "lunr_id": 145
+    },
+    {
+        "person": "Oksana Lyczkowskyj",
+        "permalink": "/bios/oksana-lyczkowskyj-medicine",
+        "lunr_id": 146
+    },
+    {
+        "person": "Clara Lynch",
+        "permalink": "/bios/clara-lynch-biology",
+        "lunr_id": 147
+    },
+    {
+        "person": "Eugenia Cardona Lynch",
+        "permalink": "/bios/eugenia-cardona-lynch-pathology",
+        "lunr_id": 148
+    },
+    {
+        "person": "Janet McCarter",
+        "permalink": "/bios/janet-woolley-bacteriology",
+        "lunr_id": 149
+    },
+    {
+        "person": "Barbara McClintock",
+        "permalink": "/bios/14832103",
+        "lunr_id": 150
+    },
+    {
+        "person": "Catherine Macfarlane",
+        "permalink": "/bios/catherine-macfarlane-medicine",
+        "lunr_id": 151
+    },
+    {
+        "person": "Caroline McGill",
+        "permalink": "/bios/45180040",
+        "lunr_id": 152
+    },
+    {
+        "person": "Kathryn McHale",
+        "permalink": "/bios/167147118238026341559",
+        "lunr_id": 153
+    },
+    {
+        "person": "Jean Macnamara",
+        "permalink": "/bios/45059336",
+        "lunr_id": 154
+    },
+    {
+        "person": "Evelyn B. Man",
+        "permalink": "/bios/evelyn-man-biochemistry",
+        "lunr_id": 155
+    },
+    {
+        "person": "Edith Mankiewicz",
+        "permalink": "/bios/316902644",
+        "lunr_id": 156
+    },
+    {
+        "person": "Anna E. Many",
+        "permalink": "/bios/21387165",
+        "lunr_id": 157
+    },
+    {
+        "person": "Maria Lu\u00edsa Mart\u00ednez",
+        "permalink": "/bios/maria-luisa-martinez-agricultural-sciences",
+        "lunr_id": 158
+    },
+    {
+        "person": "Lenna Meanes",
+        "permalink": "/bios/21158259238102300507",
+        "lunr_id": 159
+    },
+    {
+        "person": "Mildred Meekins",
+        "permalink": "/bios/mildred-meekins-biochemistry",
+        "lunr_id": 160
+    },
+    {
+        "person": "Lise Meitner",
+        "permalink": "/bios/64160163",
+        "lunr_id": 161
+    },
+    {
+        "person": "Maud L. Menten",
+        "permalink": "/bios/305447399",
+        "lunr_id": 162
+    },
+    {
+        "person": "Janet Mertz",
+        "permalink": "/bios/janet-mertz-biochemistry",
+        "lunr_id": 163
+    },
+    {
+        "person": "Elizabeth Eshelman Miller",
+        "permalink": "/bios/elizabeth-miller-biochemistry",
+        "lunr_id": 164
+    },
+    {
+        "person": "Jessie E. Minor",
+        "permalink": "/bios/jessie-minor-chemistry",
+        "lunr_id": 165
+    },
+    {
+        "person": "Beatrice Mintz",
+        "permalink": "/bios/65474773",
+        "lunr_id": 166
+    },
+    {
+        "person": "Christine Mitchell",
+        "permalink": "/bios/christine-mitchell-genetics",
+        "lunr_id": 167
+    },
+    {
+        "person": "Rose Mooney-Slater",
+        "permalink": "/bios/rose-mooney-slater-physics",
+        "lunr_id": 168
+    },
+    {
+        "person": "Isabel Morgan",
+        "permalink": "/bios/isabel-morgan-virology",
+        "lunr_id": 169
+    },
+    {
+        "person": "Lilian Vaughan Morgan",
+        "permalink": "/bios/207145857936423021318",
+        "lunr_id": 170
+    },
+    {
+        "person": "Mary E. Mrose",
+        "permalink": "/bios/75940137",
+        "lunr_id": 171
+    },
+    {
+        "person": "Gulli Lindh Muller",
+        "permalink": "/bios/78483016",
+        "lunr_id": 172
+    },
+    {
+        "person": "Doris A. Murray",
+        "permalink": "/bios/doris-murray-medicine",
+        "lunr_id": 173
+    },
+    {
+        "person": "Josephine Bicknell Neal",
+        "permalink": "/bios/5530161211633340070008",
+        "lunr_id": 174
+    },
+    {
+        "person": "Patricia Nevers",
+        "permalink": "/bios/69477262",
+        "lunr_id": 175
+    },
+    {
+        "person": "Emmy Noether",
+        "permalink": "/bios/73918294",
+        "lunr_id": 176
+    },
+    {
+        "person": "Karin Norl\u00e9n",
+        "permalink": "/bios/karin-norlen-biochemistry",
+        "lunr_id": 177
+    },
+    {
+        "person": "M. A. Nutting",
+        "permalink": "/bios/100983073",
+        "lunr_id": 178
+    },
+    {
+        "person": "Mary Osbakken",
+        "permalink": "/bios/33350057",
+        "lunr_id": 179
+    },
+    {
+        "person": "Mary C. Pangborn",
+        "permalink": "/bios/18263784",
+        "lunr_id": 180
+    },
+    {
+        "person": "Jane H. Park",
+        "permalink": "/bios/jane-park-biochemistry",
+        "lunr_id": 181
+    },
+    {
+        "person": "Teresina Pati\u00f1o de Pinz\u00f3n",
+        "permalink": "/bios/teresina-patino-medicine",
+        "lunr_id": 182
+    },
+    {
+        "person": "Cecilia Payne-Gaposchkin",
+        "permalink": "/bios/110246591",
+        "lunr_id": 183
+    },
+    {
+        "person": "Louise Pearce",
+        "permalink": "/bios/56214499",
+        "lunr_id": 184
+    },
+    {
+        "person": "Florence Peebles",
+        "permalink": "/bios/3389154260604924480006",
+        "lunr_id": 185
+    },
+    {
+        "person": "Mary L. Petermann",
+        "permalink": "/bios/31005910",
+        "lunr_id": 186
+    },
+    {
+        "person": "Cynthia Pierce-Chase",
+        "permalink": "/bios/cynthia-pierce-chase-microbiology",
+        "lunr_id": 187
+    },
+    {
+        "person": "Mary E. Pinney",
+        "permalink": "/bios/173632405",
+        "lunr_id": 188
+    },
+    {
+        "person": "Margaret Pittman",
+        "permalink": "/bios/311772226",
+        "lunr_id": 189
+    },
+    {
+        "person": "H. Anne Plettinger",
+        "permalink": "/bios/anne-plettinger-physics",
+        "lunr_id": 190
+    },
+    {
+        "person": "Agnes Pockels",
+        "permalink": "/bios/164710878",
+        "lunr_id": 191
+    },
+    {
+        "person": "Franca Podo",
+        "permalink": "/bios/53337774",
+        "lunr_id": 192
+    },
+    {
+        "person": "Annie Porter",
+        "permalink": "/bios/289560001",
+        "lunr_id": 193
+    },
+    {
+        "person": "Linda S. Powers",
+        "permalink": "/bios/21181157",
+        "lunr_id": 194
+    },
+    {
+        "person": "Persis Putnam",
+        "permalink": "/bios/305455410",
+        "lunr_id": 195
+    },
+    {
+        "person": "Nancy E. Ragaini",
+        "permalink": "/bios/nancy-ragaini-physics",
+        "lunr_id": 196
+    },
+    {
+        "person": "Elaine Ralli",
+        "permalink": "/bios/217419612",
+        "lunr_id": 197
+    },
+    {
+        "person": "Pauline Ramart-Lucas",
+        "permalink": "/bios/64121403",
+        "lunr_id": 198
+    },
+    {
+        "person": "Sarah Ratner",
+        "permalink": "/bios/272055027",
+        "lunr_id": 199
+    },
+    {
+        "person": "Lowell J. Reed",
+        "permalink": "/bios/58730576",
+        "lunr_id": 200
+    },
+    {
+        "person": "Minnie Reed",
+        "permalink": "/bios/4592113",
+        "lunr_id": 201
+    },
+    {
+        "person": "Natasha Goldowski Renner",
+        "permalink": "/bios/natasha-renner-physics",
+        "lunr_id": 202
+    },
+    {
+        "person": "Ellen Swallow Richards",
+        "permalink": "/bios/27872501",
+        "lunr_id": 203
+    },
+    {
+        "person": "Esther Richards",
+        "permalink": "/bios/esther-richards-psychiatry",
+        "lunr_id": 204
+    },
+    {
+        "person": "Agnes Sanders Riley",
+        "permalink": "/bios/70510917",
+        "lunr_id": 205
+    },
+    {
+        "person": "Cathryn Riley",
+        "permalink": "/bios/cathryn-riley-medicine",
+        "lunr_id": 206
+    },
+    {
+        "person": "Ethel Ronzoni",
+        "permalink": "/bios/ethel-ronzoni-biochemistry",
+        "lunr_id": 207
+    },
+    {
+        "person": "Margaret Taylor Ross",
+        "permalink": "/bios/margaret-ross-medicine",
+        "lunr_id": 208
+    },
+    {
+        "person": "Elizabeth Russell",
+        "permalink": "/bios/84841281",
+        "lunr_id": 209
+    },
+    {
+        "person": "Gudrun Ruud",
+        "permalink": "/bios/235149106375568492912",
+        "lunr_id": 210
+    },
+    {
+        "person": "Florence Rena Sabin",
+        "permalink": "/bios/74652573",
+        "lunr_id": 211
+    },
+    {
+        "person": "Ruth Sager",
+        "permalink": "/bios/45087442",
+        "lunr_id": 212
+    },
+    {
+        "person": "Julie Scheffler",
+        "permalink": "/bios/julie-scheffer-biochemistry",
+        "lunr_id": 213
+    },
+    {
+        "person": "Florence Barbara Seibert",
+        "permalink": "/bios/290322767",
+        "lunr_id": 214
+    },
+    {
+        "person": "Mabel V. Seibert",
+        "permalink": "/bios/mabel-seibert-biochemistry",
+        "lunr_id": 215
+    },
+    {
+        "person": "Lucy Shapiro",
+        "permalink": "/bios/91928525",
+        "lunr_id": 216
+    },
+    {
+        "person": "Nancy Shepherd",
+        "permalink": "/bios/nancy-shepherd-genetics",
+        "lunr_id": 217
+    },
+    {
+        "person": "Mary Sherwood",
+        "permalink": "/bios/mary-sherwood-medicine",
+        "lunr_id": 218
+    },
+    {
+        "person": "Maxine F. Singer",
+        "permalink": "/bios/17282599",
+        "lunr_id": 219
+    },
+    {
+        "person": "Maud Slye",
+        "permalink": "/bios/4741220",
+        "lunr_id": 220
+    },
+    {
+        "person": "Christianna Smith",
+        "permalink": "/bios/16404234",
+        "lunr_id": 221
+    },
+    {
+        "person": "Linda Tombras Smith",
+        "permalink": "/bios/linda-tombras-smith-biology",
+        "lunr_id": 222
+    },
+    {
+        "person": "Kenneth C. Smithburn",
+        "permalink": "/bios/317280832",
+        "lunr_id": 223
+    },
+    {
+        "person": "Jennifer Sorrentino",
+        "permalink": "/bios/jennifer-sorrentino-genetics",
+        "lunr_id": 224
+    },
+    {
+        "person": "Susan Souther",
+        "permalink": "/bios/susan-souther-medicine",
+        "lunr_id": 225
+    },
+    {
+        "person": "Janice Spofford",
+        "permalink": "/bios/janice-spofford-genetics",
+        "lunr_id": 226
+    },
+    {
+        "person": "Hertha Sponer",
+        "permalink": "/bios/20509982",
+        "lunr_id": 227
+    },
+    {
+        "person": "Gertrude Stein",
+        "permalink": "/bios/22149082",
+        "lunr_id": 228
+    },
+    {
+        "person": "Lotte Strauss",
+        "permalink": "/bios/309724749",
+        "lunr_id": 229
+    },
+    {
+        "person": "Vivian Tappan",
+        "permalink": "/bios/vivian-tappan-medicine",
+        "lunr_id": 230
+    },
+    {
+        "person": "Helen Taussig",
+        "permalink": "/bios/45176885",
+        "lunr_id": 231
+    },
+    {
+        "person": "June S. Taylor",
+        "permalink": "/bios/june-taylor-biochemistry",
+        "lunr_id": 232
+    },
+    {
+        "person": "Loverine Taylor",
+        "permalink": "/bios/loverine-taylor-genetics",
+        "lunr_id": 233
+    },
+    {
+        "person": "Caroline B. Thompson",
+        "permalink": "/bios/caroline-thompson-entomology",
+        "lunr_id": 234
+    },
+    {
+        "person": "Lillian Ray Titcomb",
+        "permalink": "/bios/lillian-titcomb-medicine",
+        "lunr_id": 235
+    },
+    {
+        "person": "Gloria Torralba",
+        "permalink": "/bios/gloria-torralba-biology",
+        "lunr_id": 236
+    },
+    {
+        "person": "Sarah Tower",
+        "permalink": "/bios/36148120694594790960",
+        "lunr_id": 237
+    },
+    {
+        "person": "Martha Tracy",
+        "permalink": "/bios/martha-tracy-medicine",
+        "lunr_id": 238
+    },
+    {
+        "person": "Consuelo Vadillo",
+        "permalink": "/bios/consuelo-vadillo-gynecology",
+        "lunr_id": 239
+    },
+    {
+        "person": "Sara Vollmer",
+        "permalink": "/bios/sara-vollmer-chemistry",
+        "lunr_id": 240
+    },
+    {
+        "person": "Bertha Van Hoosen",
+        "permalink": "/bios/62835820",
+        "lunr_id": 241
+    },
+    {
+        "person": "Virginia Walbot",
+        "permalink": "/bios/2534080",
+        "lunr_id": 242
+    },
+    {
+        "person": "Margaret F. Washburn",
+        "permalink": "/bios/69034781",
+        "lunr_id": 243
+    },
+    {
+        "person": "Charity Waymouth",
+        "permalink": "/bios/236663052",
+        "lunr_id": 244
+    },
+    {
+        "person": "Roxie Weber",
+        "permalink": "/bios/roxie-weber-medicine",
+        "lunr_id": 245
+    },
+    {
+        "person": "Lilian Welsh",
+        "permalink": "/bios/73239411",
+        "lunr_id": 246
+    },
+    {
+        "person": "Susan R. Wessler",
+        "permalink": "/bios/76468404",
+        "lunr_id": 247
+    },
+    {
+        "person": "Johanna Westerdijk",
+        "permalink": "/bios/47547210",
+        "lunr_id": 248
+    },
+    {
+        "person": "Dorothy Wiehl",
+        "permalink": "/bios/675145857064322921252",
+        "lunr_id": 249
+    },
+    {
+        "person": "Elizabeth Reese Wilkens",
+        "permalink": "/bios/elizabeth-wilkens-medicine",
+        "lunr_id": 250
+    },
+    {
+        "person": "Hilda Pope Willett",
+        "permalink": "/bios/55434368",
+        "lunr_id": 251
+    },
+    {
+        "person": "Evelyn Witkin",
+        "permalink": "/bios/38857597",
+        "lunr_id": 252
+    },
+    {
+        "person": "Chinyere Wogu",
+        "permalink": "/bios/chinyere-wogu-pediatrics",
+        "lunr_id": 253
+    },
+    {
+        "person": "Elizabeth Armstrong Wood",
+        "permalink": "/bios/39439873",
+        "lunr_id": 254
+    },
+    {
+        "person": "Betty Woodworth",
+        "permalink": "/bios/betty-woodworth-genetics",
+        "lunr_id": 255
+    },
+    {
+        "person": "Helen T. Woolley",
+        "permalink": "/bios/66829805",
+        "lunr_id": 256
+    },
+    {
+        "person": "Dorothy Wrinch",
+        "permalink": "/bios/75241605",
+        "lunr_id": 257
+    },
+    {
+        "person": "Christine Zioudrou",
+        "permalink": "/bios/christine-zioudrou-chemistry",
+        "lunr_id": 258
+    }
+]
